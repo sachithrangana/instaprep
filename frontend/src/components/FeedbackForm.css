@@ -1,0 +1,106 @@
+.feedback-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 2200;
+}
+
+.feedback-content {
+  background: #ffffff;
+  border-radius: 14px;
+  width: min(560px, 92vw);
+  padding: 22px;
+  position: relative;
+  box-shadow: 0 14px 38px rgba(0, 0, 0, 0.25);
+}
+
+.feedback-close {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  cursor: pointer;
+  color: #374151;
+}
+
+.feedback-subtitle {
+  margin-top: 0;
+  margin-bottom: 14px;
+  color: #4b5563;
+}
+
+.feedback-form label {
+  display: block;
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 12px;
+}
+
+.feedback-form select,
+.feedback-form input,
+.feedback-form textarea {
+  width: 100%;
+  margin-top: 6px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.feedback-form textarea {
+  resize: vertical;
+}
+
+.feedback-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.feedback-btn-primary,
+.feedback-btn-secondary {
+  border: none;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.feedback-btn-primary {
+  background: #4f46e5;
+  color: #fff;
+}
+
+.feedback-btn-primary:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.feedback-btn-secondary {
+  background: #e5e7eb;
+  color: #111827;
+}
+
+.feedback-error {
+  background: #fee2e2;
+  color: #991b1b;
+  border-radius: 8px;
+  padding: 8px 10px;
+  margin-bottom: 8px;
+}
+
+.feedback-success {
+  background: #dcfce7;
+  color: #166534;
+  border-radius: 8px;
+  padding: 8px 10px;
+  margin-bottom: 8px;
+}

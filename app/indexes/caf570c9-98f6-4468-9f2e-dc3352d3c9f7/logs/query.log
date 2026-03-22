@@ -1,0 +1,1274 @@
+2026-02-10 05:12:45.0799 - WARNING - graphrag.query.structured_search.basic_search.basic_context - Reached token limit: 12263. Reverting to previous context state
+2026-02-10 05:16:34.0985 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-02-10 05:16:35.0049 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-02-10 05:16:35.0053 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-02-10 05:31:10.0497 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-02-10 05:31:10.0515 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-02-10 05:32:12.0405 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-02-10 05:32:12.0466 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-02-10 05:32:12.0480 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-02-10 05:32:12.0483 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-02-10 05:32:12.0487 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-02-10 05:32:13.0636 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-02-10 05:32:13.0645 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-02-10 05:44:07.0089 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 3.507883071899414,
+  "compute_duration_per_response_seconds": 1.753941535949707,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 2,
+  "prompt_tokens": 1662,
+  "total_tokens": 1662,
+  "tokens_per_response": 831.0,
+  "cost_per_response": 0.0
+}
+2026-02-10 05:44:07.0118 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 2,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-02-11 21:42:53.0221 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-02-11 21:42:53.0232 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-02-11 21:45:33.0486 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-02-11 21:45:33.0534 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-02-11 21:45:33.0549 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-02-11 21:45:33.0553 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-02-11 21:45:33.0558 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-02-11 21:45:34.0408 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-02-11 21:45:34.0420 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-02-11 21:46:50.0727 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 3.974743604660034,
+  "compute_duration_per_response_seconds": 1.987371802330017,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 2,
+  "prompt_tokens": 1662,
+  "total_tokens": 1662,
+  "tokens_per_response": 831.0,
+  "cost_per_response": 0.0
+}
+2026-02-11 21:46:50.0730 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 2,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-02-11 22:00:50.0388 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-02-11 22:00:50.0400 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-02-11 22:02:23.0337 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 4.741430044174194,
+  "compute_duration_per_response_seconds": 4.741430044174194,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 831,
+  "total_tokens": 831,
+  "tokens_per_response": 831.0,
+  "cost_per_response": 0.0
+}
+2026-02-11 22:02:23.0338 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-02-14 16:31:13.0902 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-02-14 16:31:13.0909 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-02-14 16:42:52.0887 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-02-14 16:42:52.0907 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-02-14 18:00:04.0575 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-02-14 18:00:04.0639 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-02-14 18:00:04.0661 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-02-14 18:00:04.0667 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-02-14 18:00:04.0674 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-02-14 18:00:08.0403 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-02-14 18:00:08.0417 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-14 18:08:10.0161 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-14 18:08:10.0169 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-14 18:11:17.0508 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-14 18:11:17.0514 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-14 18:11:17.0528 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-14 18:11:17.0531 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-14 18:11:17.0535 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-14 18:11:18.0749 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-14 18:11:18.0761 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 17:58:47.0989 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 17:58:48.0082 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 17:58:48.0146 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 17:58:48.0153 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 17:58:48.0160 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 17:58:52.0565 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 17:58:52.0572 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 18:26:27.0906 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 3,
+  "successful_response_count": 3,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 9.301671266555786,
+  "compute_duration_per_response_seconds": 3.1005570888519287,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 3,
+  "prompt_tokens": 2908,
+  "total_tokens": 2908,
+  "tokens_per_response": 969.3333333333334,
+  "cost_per_response": 0.0
+}
+2026-03-20 18:26:27.0910 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 3,
+  "successful_response_count": 3,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 3,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:06:46.0922 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 22:06:46.0929 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 22:28:04.0467 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 22:28:04.0503 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 22:28:04.0517 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 22:28:04.0520 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 22:28:04.0525 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 22:28:04.0594 - ERROR - graphrag_llm.middleware.with_logging - Request failed with exception=litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google_gemini/text-embedding-004
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_logging.py", line 49, in _request_count_middleware
+    return sync_middleware(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_request_count.py", line 53, in _request_count_middleware
+    result = sync_middleware(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_retries.py", line 47, in _retry_middleware
+    return retrier.retry(
+           ^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/retry/exponential_retry.py", line 70, in retry
+    return func(**input_args)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_metrics.py", line 56, in _metrics_middleware
+    response = sync_middleware(**kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/embedding/lite_llm_embedding.py", line 188, in _base_embedding
+    response = litellm.embedding(**new_args)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1748, in wrapper
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1569, in wrapper
+    result = original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 4658, in embedding
+    model, custom_llm_provider, dynamic_api_key, api_base = get_llm_provider(
+                                                            ^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/get_llm_provider_logic.py", line 470, in get_llm_provider
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/get_llm_provider_logic.py", line 451, in get_llm_provider
+    raise litellm.exceptions.BadRequestError(  # type: ignore
+litellm.exceptions.BadRequestError: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google_gemini/text-embedding-004
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2026-03-20 22:28:34.0414 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for google_gemini/text-embedding-004: {
+  "attempted_request_count": 1,
+  "successful_response_count": 0,
+  "failed_response_count": 1,
+  "failure_rate": 1.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:28:34.0415 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for google_gemini/gemini-2.5-pro: {
+  "failure_rate": 0.0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:28:34.0418 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 4.595497131347656,
+  "compute_duration_per_response_seconds": 4.595497131347656,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1257,
+  "total_tokens": 1257,
+  "tokens_per_response": 1257.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:28:34.0419 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:29:09.0585 - ERROR - graphrag_llm.middleware.with_logging - Request failed with exception=litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google_gemini/text-embedding-004
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_logging.py", line 49, in _request_count_middleware
+    return sync_middleware(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_request_count.py", line 53, in _request_count_middleware
+    result = sync_middleware(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_retries.py", line 47, in _retry_middleware
+    return retrier.retry(
+           ^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/retry/exponential_retry.py", line 70, in retry
+    return func(**input_args)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_metrics.py", line 56, in _metrics_middleware
+    response = sync_middleware(**kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/embedding/lite_llm_embedding.py", line 188, in _base_embedding
+    response = litellm.embedding(**new_args)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1748, in wrapper
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1569, in wrapper
+    result = original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 4658, in embedding
+    model, custom_llm_provider, dynamic_api_key, api_base = get_llm_provider(
+                                                            ^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/get_llm_provider_logic.py", line 470, in get_llm_provider
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/get_llm_provider_logic.py", line 451, in get_llm_provider
+    raise litellm.exceptions.BadRequestError(  # type: ignore
+litellm.exceptions.BadRequestError: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google_gemini/text-embedding-004
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2026-03-20 22:30:15.0739 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for google_gemini/text-embedding-004: {
+  "attempted_request_count": 1,
+  "successful_response_count": 0,
+  "failed_response_count": 1,
+  "failure_rate": 1.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:30:15.0739 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for google_gemini/gemini-2.5-pro: {
+  "failure_rate": 0.0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:30:52.0778 - ERROR - graphrag_llm.middleware.with_logging - Request failed with exception=litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google_gemini/text-embedding-004
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_logging.py", line 49, in _request_count_middleware
+    return sync_middleware(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_request_count.py", line 53, in _request_count_middleware
+    result = sync_middleware(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_retries.py", line 47, in _retry_middleware
+    return retrier.retry(
+           ^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/retry/exponential_retry.py", line 70, in retry
+    return func(**input_args)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_metrics.py", line 56, in _metrics_middleware
+    response = sync_middleware(**kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/embedding/lite_llm_embedding.py", line 188, in _base_embedding
+    response = litellm.embedding(**new_args)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1748, in wrapper
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1569, in wrapper
+    result = original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 4658, in embedding
+    model, custom_llm_provider, dynamic_api_key, api_base = get_llm_provider(
+                                                            ^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/get_llm_provider_logic.py", line 470, in get_llm_provider
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/get_llm_provider_logic.py", line 451, in get_llm_provider
+    raise litellm.exceptions.BadRequestError(  # type: ignore
+litellm.exceptions.BadRequestError: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google_gemini/text-embedding-004
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2026-03-20 22:33:30.0508 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 22:33:30.0518 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 22:33:30.0529 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 22:33:30.0532 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 22:33:30.0535 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 22:33:30.0599 - ERROR - graphrag_llm.middleware.with_logging - Request failed with exception=litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google_gemini/text-embedding-004
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_logging.py", line 49, in _request_count_middleware
+    return sync_middleware(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_request_count.py", line 53, in _request_count_middleware
+    result = sync_middleware(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_retries.py", line 47, in _retry_middleware
+    return retrier.retry(
+           ^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/retry/exponential_retry.py", line 70, in retry
+    return func(**input_args)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_metrics.py", line 56, in _metrics_middleware
+    response = sync_middleware(**kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/embedding/lite_llm_embedding.py", line 188, in _base_embedding
+    response = litellm.embedding(**new_args)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1748, in wrapper
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1569, in wrapper
+    result = original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 4658, in embedding
+    model, custom_llm_provider, dynamic_api_key, api_base = get_llm_provider(
+                                                            ^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/get_llm_provider_logic.py", line 470, in get_llm_provider
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/get_llm_provider_logic.py", line 451, in get_llm_provider
+    raise litellm.exceptions.BadRequestError(  # type: ignore
+litellm.exceptions.BadRequestError: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=google_gemini/text-embedding-004
+ Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers
+2026-03-20 22:34:50.0287 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 22:34:50.0338 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 22:34:50.0352 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 22:34:50.0354 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 22:34:50.0357 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 22:34:52.0115 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 22:34:52.0122 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 22:50:58.0386 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 1.4915947914123535,
+  "compute_duration_per_response_seconds": 1.4915947914123535,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1257,
+  "total_tokens": 1257,
+  "tokens_per_response": 1257.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:50:58.0387 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:50:58.0387 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for google_gemini/text-embedding-004: {
+  "attempted_request_count": 2,
+  "successful_response_count": 0,
+  "failed_response_count": 2,
+  "failure_rate": 1.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 22:50:58.0387 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for google_gemini/gemini-2.5-pro: {
+  "failure_rate": 0.0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:02:56.0098 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:02:56.0106 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:04:49.0996 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 23:04:50.0005 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 23:04:50.0029 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 23:04:50.0033 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 23:04:50.0036 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 23:04:53.0529 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:04:53.0538 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:06:20.0240 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 23:06:20.0246 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 23:06:20.0262 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 23:06:20.0269 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 23:06:20.0276 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 23:06:20.0953 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:06:20.0962 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:08:06.0326 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 23:08:06.0368 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 23:08:06.0394 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 23:08:06.0398 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 23:08:06.0406 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 23:08:07.0264 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:08:07.0272 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:10:45.0724 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 4,
+  "successful_response_count": 4,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 5.772274494171143,
+  "compute_duration_per_response_seconds": 1.4430686235427856,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 4,
+  "prompt_tokens": 5040,
+  "total_tokens": 5040,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:10:45.0724 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 4,
+  "successful_response_count": 4,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 4,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:11:56.0590 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:11:56.0598 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:14:08.0331 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0.8358988761901855,
+  "compute_duration_per_response_seconds": 0.8358988761901855,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1260,
+  "total_tokens": 1260,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:14:08.0332 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:15:00.0286 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:15:00.0294 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:16:29.0396 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 23:16:29.0404 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 23:16:29.0424 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 23:16:29.0429 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 23:16:29.0432 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 23:16:30.0369 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:16:30.0378 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:17:33.0155 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 1.8637559413909912,
+  "compute_duration_per_response_seconds": 0.9318779706954956,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 2,
+  "prompt_tokens": 2520,
+  "total_tokens": 2520,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:17:33.0157 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 2,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:17:44.0643 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:17:44.0652 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:19:27.0441 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 1.0409820079803467,
+  "compute_duration_per_response_seconds": 1.0409820079803467,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1260,
+  "total_tokens": 1260,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:19:27.0441 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:19:44.0123 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:19:44.0131 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:21:34.0268 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 1.574629306793213,
+  "compute_duration_per_response_seconds": 1.574629306793213,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1260,
+  "total_tokens": 1260,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:21:34.0269 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:22:24.0887 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:22:24.0895 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:30:50.0025 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 23:30:50.0033 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 23:30:50.0045 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 23:30:50.0048 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 23:30:50.0052 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 23:30:51.0353 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:30:51.0361 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:35:34.0024 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 2.422283411026001,
+  "compute_duration_per_response_seconds": 1.2111417055130005,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 2,
+  "prompt_tokens": 2520,
+  "total_tokens": 2520,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:35:34.0025 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 2,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:37:53.0233 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:37:53.0242 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:39:30.0062 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 1.4038629531860352,
+  "compute_duration_per_response_seconds": 1.4038629531860352,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1260,
+  "total_tokens": 1260,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:39:30.0063 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:40:18.0280 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:40:18.0289 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:45:15.0671 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0.8159599304199219,
+  "compute_duration_per_response_seconds": 0.8159599304199219,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1260,
+  "total_tokens": 1260,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:45:15.0672 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-20 23:50:51.0896 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:50:51.0905 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:54:09.0505 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 23:54:09.0543 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 23:54:09.0564 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 23:54:09.0567 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 23:54:09.0571 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 23:54:11.0023 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:54:11.0032 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:55:02.0697 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 23:55:02.0708 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 23:55:02.0722 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 23:55:02.0726 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 23:55:02.0729 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 23:55:04.0447 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:55:04.0459 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-20 23:58:57.0784 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-20 23:58:57.0791 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-20 23:58:57.0808 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-20 23:58:57.0812 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-20 23:58:57.0815 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-20 23:58:58.0803 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-20 23:58:58.0811 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 00:11:44.0941 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 4,
+  "successful_response_count": 4,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 4.846783638000488,
+  "compute_duration_per_response_seconds": 1.211695909500122,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 4,
+  "prompt_tokens": 5042,
+  "total_tokens": 5042,
+  "tokens_per_response": 1260.5,
+  "cost_per_response": 0.0
+}
+2026-03-21 00:11:44.0942 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 4,
+  "successful_response_count": 4,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 4,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 00:12:32.0458 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 00:12:32.0465 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 02:56:43.0231 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 1.523890733718872,
+  "compute_duration_per_response_seconds": 1.523890733718872,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1260,
+  "total_tokens": 1260,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 02:56:43.0237 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 03:28:54.0386 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-21 03:28:54.0395 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-21 03:28:54.0417 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-21 03:28:55.0652 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-21 03:28:55.0664 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-21 03:29:08.0728 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 03:29:08.0730 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 03:29:08.0752 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 03:29:08.0765 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 03:29:42.0420 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-21 03:29:43.0143 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-21 03:29:43.0750 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-21 03:29:44.0664 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-21 03:29:45.0164 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-21 03:29:49.0745 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 03:29:50.0967 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 03:33:37.0888 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 3,
+  "successful_response_count": 3,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 12.861863613128662,
+  "compute_duration_per_response_seconds": 4.287287871042888,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 3,
+  "prompt_tokens": 3771,
+  "total_tokens": 3771,
+  "tokens_per_response": 1257.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 03:33:37.0888 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 3,
+  "successful_response_count": 3,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 3,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 03:34:55.0562 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 03:34:55.0570 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 03:37:57.0825 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-21 03:37:57.0833 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-21 03:37:57.0867 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-21 03:37:57.0870 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-21 03:37:57.0874 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-21 03:37:59.0033 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 03:37:59.0042 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 04:52:01.0942 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-21 04:52:02.0010 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-21 04:52:02.0045 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-21 04:52:02.0049 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-21 04:52:02.0056 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-21 04:52:03.0121 - ERROR - graphrag_llm.middleware.with_logging - Request failed with exception=litellm.AuthenticationError: AuthenticationError: OpenAIException - Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1259, in embedding
+    headers, sync_embedding_response = self.make_sync_openai_embedding_request(
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 237, in sync_wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1132, in make_sync_openai_embedding_request
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1124, in make_sync_openai_embedding_request
+    raw_response = openai_client.embeddings.with_raw_response.create(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_legacy_response.py", line 364, in wrapped
+    return cast(LegacyAPIResponse[R], func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/resources/embeddings.py", line 132, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_base_client.py", line 1297, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_base_client.py", line 1070, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 4820, in embedding
+    response = openai_chat_completions.embedding(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1290, in embedding
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_logging.py", line 49, in _request_count_middleware
+    return sync_middleware(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_request_count.py", line 53, in _request_count_middleware
+    result = sync_middleware(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_retries.py", line 47, in _retry_middleware
+    return retrier.retry(
+           ^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/retry/exponential_retry.py", line 70, in retry
+    return func(**input_args)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_metrics.py", line 56, in _metrics_middleware
+    response = sync_middleware(**kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/embedding/lite_llm_embedding.py", line 188, in _base_embedding
+    response = litellm.embedding(**new_args)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1748, in wrapper
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1569, in wrapper
+    result = original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 5632, in embedding
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2378, in exception_type
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 509, in exception_type
+    raise AuthenticationError(
+litellm.exceptions.AuthenticationError: litellm.AuthenticationError: AuthenticationError: OpenAIException - Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-03-21 04:53:23.0899 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-21 04:53:23.0918 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-21 04:53:23.0940 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-21 04:53:23.0946 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-21 04:53:23.0955 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-21 04:53:24.0733 - ERROR - graphrag_llm.middleware.with_logging - Request failed with exception=litellm.AuthenticationError: AuthenticationError: OpenAIException - Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1259, in embedding
+    headers, sync_embedding_response = self.make_sync_openai_embedding_request(
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 237, in sync_wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1132, in make_sync_openai_embedding_request
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1124, in make_sync_openai_embedding_request
+    raw_response = openai_client.embeddings.with_raw_response.create(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_legacy_response.py", line 364, in wrapped
+    return cast(LegacyAPIResponse[R], func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/resources/embeddings.py", line 132, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_base_client.py", line 1297, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_base_client.py", line 1070, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 4820, in embedding
+    response = openai_chat_completions.embedding(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1290, in embedding
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_logging.py", line 49, in _request_count_middleware
+    return sync_middleware(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_request_count.py", line 53, in _request_count_middleware
+    result = sync_middleware(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_retries.py", line 47, in _retry_middleware
+    return retrier.retry(
+           ^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/retry/exponential_retry.py", line 70, in retry
+    return func(**input_args)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_metrics.py", line 56, in _metrics_middleware
+    response = sync_middleware(**kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/embedding/lite_llm_embedding.py", line 188, in _base_embedding
+    response = litellm.embedding(**new_args)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1748, in wrapper
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1569, in wrapper
+    result = original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 5632, in embedding
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2378, in exception_type
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 509, in exception_type
+    raise AuthenticationError(
+litellm.exceptions.AuthenticationError: litellm.AuthenticationError: AuthenticationError: OpenAIException - Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-03-21 05:04:12.0756 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-21 05:04:12.0804 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-21 05:04:12.0829 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-21 05:04:12.0834 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-21 05:04:12.0841 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-21 05:04:13.0591 - ERROR - graphrag_llm.middleware.with_logging - Request failed with exception=litellm.AuthenticationError: AuthenticationError: OpenAIException - Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1259, in embedding
+    headers, sync_embedding_response = self.make_sync_openai_embedding_request(
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/logging_utils.py", line 237, in sync_wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1132, in make_sync_openai_embedding_request
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1124, in make_sync_openai_embedding_request
+    raw_response = openai_client.embeddings.with_raw_response.create(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_legacy_response.py", line 364, in wrapped
+    return cast(LegacyAPIResponse[R], func(*args, **kwargs))
+                                      ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/resources/embeddings.py", line 132, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_base_client.py", line 1297, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/openai/_base_client.py", line 1070, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.AuthenticationError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 4820, in embedding
+    response = openai_chat_completions.embedding(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/llms/openai/openai.py", line 1290, in embedding
+    raise OpenAIError(
+litellm.llms.openai.common_utils.OpenAIError: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_logging.py", line 49, in _request_count_middleware
+    return sync_middleware(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_request_count.py", line 53, in _request_count_middleware
+    result = sync_middleware(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_retries.py", line 47, in _retry_middleware
+    return retrier.retry(
+           ^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/retry/exponential_retry.py", line 70, in retry
+    return func(**input_args)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/middleware/with_metrics.py", line 56, in _metrics_middleware
+    response = sync_middleware(**kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/graphrag_llm/embedding/lite_llm_embedding.py", line 188, in _base_embedding
+    response = litellm.embedding(**new_args)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1748, in wrapper
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/utils.py", line 1569, in wrapper
+    result = original_function(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/main.py", line 5632, in embedding
+    raise exception_type(
+          ^^^^^^^^^^^^^^^
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 2378, in exception_type
+    raise e
+  File "/Users/admin/Desktop/curiosity/graphrag-testing/instaprep-vm-4/lib/python3.12/site-packages/litellm/litellm_core_utils/exception_mapping_utils.py", line 509, in exception_type
+    raise AuthenticationError(
+litellm.exceptions.AuthenticationError: litellm.AuthenticationError: AuthenticationError: OpenAIException - Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-proj-********************************************************************************************************************************************************JiIA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+2026-03-21 05:04:59.0880 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 5,
+  "successful_response_count": 2,
+  "failed_response_count": 3,
+  "failure_rate": 0.6,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 2.166013240814209,
+  "compute_duration_per_response_seconds": 1.0830066204071045,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 2,
+  "prompt_tokens": 2517,
+  "total_tokens": 2517,
+  "tokens_per_response": 1258.5,
+  "cost_per_response": 0.0
+}
+2026-03-21 05:04:59.0880 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 2,
+  "successful_response_count": 2,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 2,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 05:05:41.0704 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 05:05:41.0717 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 05:20:53.0183 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 4.293457984924316,
+  "compute_duration_per_response_seconds": 4.293457984924316,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1260,
+  "total_tokens": 1260,
+  "tokens_per_response": 1260.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 05:20:53.0187 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 14:31:22.0583 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 14:31:22.0593 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 14:35:30.0079 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-21 14:35:30.0155 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-21 14:35:30.0234 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-21 14:35:30.0248 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-21 14:35:30.0265 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-21 14:35:31.0333 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 14:35:31.0345 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 15:02:33.0445 - INFO - graphrag.utils.storage - reading table from storage: communities.parquet
+2026-03-21 15:02:33.0509 - INFO - graphrag.utils.storage - reading table from storage: community_reports.parquet
+2026-03-21 15:02:33.0550 - INFO - graphrag.utils.storage - reading table from storage: text_units.parquet
+2026-03-21 15:02:33.0559 - INFO - graphrag.utils.storage - reading table from storage: relationships.parquet
+2026-03-21 15:02:33.0568 - INFO - graphrag.utils.storage - reading table from storage: entities.parquet
+2026-03-21 15:02:35.0448 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-21 15:02:35.0459 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-21 17:08:22.0346 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 3,
+  "successful_response_count": 3,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 6.132225275039673,
+  "compute_duration_per_response_seconds": 2.044075091679891,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 3,
+  "prompt_tokens": 3774,
+  "total_tokens": 3774,
+  "tokens_per_response": 1258.0,
+  "cost_per_response": 0.0
+}
+2026-03-21 17:08:22.0367 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 3,
+  "successful_response_count": 3,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 3,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}

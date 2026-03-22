@@ -1,0 +1,812 @@
+[
+  {
+    "id": "assessment-9f9641893341cb08",
+    "created_at": "2025-12-31T13:39:32.162068",
+    "difficulty": "medium",
+    "numQuestions": 5,
+    "objectives": [
+      "Testing"
+    ],
+    "questionTypes": {
+      "multipleChoice": true,
+      "shortAnswer": true,
+      "essay": false,
+      "trueFalse": false
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "type": "multiple_choice",
+        "question": "A diploid somatic cell has 8 chromosomes. After meiosis, how many chromosomes will each gamete contain?",
+        "question_sinhala": "\u0daf\u0dd4\u0db4\u0dca\u0dbd\u0ddd\u0dba\u0dd2\u0da9\u0dca \u0dc1\u0dbb\u0dd3\u0dbb (\u0dc3\u0ddc\u0db8\u0da7\u0dd2\u0d9a\u0dca) \u0d9a\u0ddd\u0dc2\u0dba\u0d9a\u0da7 \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca 8\u0d9a\u0dca \u0d87\u0dad\u0dca\u0db1\u0db8\u0dca, \u0db8\u0dd2\u0d94\u0dc3\u0dd2\u0dc3\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0\u0dbd\u0dd2\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dc3\u0dd4\u0dc0 \u0dc3\u0dd1\u0db8 \u0d9c\u0dd0\u0db8\u0dd2\u0da7\u0dcf\u0dc0\u0d9a\u0daf \u0d9a\u0ddc\u0da0\u0dca\u0da0\u0dbb \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca \u0dad\u0dd2\u0db6\u0dda\u0daf?",
+        "options": [
+          "4 chromosomes",
+          "8 chromosomes",
+          "16 chromosomes",
+          "2 chromosomes"
+        ],
+        "options_sinhala": [
+          "\u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca 4",
+          "\u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca 8",
+          "\u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca 16",
+          "\u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca 2"
+        ],
+        "correct_answer": "A",
+        "correct_answer_sinhala": "A: \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca 4",
+        "explanation": "Meiosis is a two-stage reductional division that halves the chromosome number, producing haploid gametes. A diploid cell with 8 chromosomes will produce gametes each with 4 chromosomes [Data: Reports (19)].",
+        "explanation_sinhala": "\u0db8\u0dd2\u0d94\u0dc3\u0dd2\u0dc3\u0dca \u0dba\u0db1\u0dd4 \u0daf\u0dd9\u0dc0\u0dbb\u0d9a\u0dca \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0db1 \u0d85\u0da9\u0dd4\u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda \u0db6\u0dd9\u0daf\u0dd3\u0db8\u0d9a\u0dca \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca \u0d9c\u0dab\u0db1 \u0d85\u0da9\u0dd4 \u0d9a\u0dbb \u0dc0\u0dd3\u0da9\u0dd2\u0db4\u0dca\u0dbd\u0ddd\u0dba\u0dd2\u0da9\u0dca (haploid) \u0d9c\u0dd0\u0db8\u0dd2\u0da7\u0dcf \u0db1\u0dd2\u0db4\u0daf\u0dc0\u0dba\u0dd2. 8 \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca \u0d87\u0dad\u0dd2 \u0daf\u0dd4\u0db4\u0dca\u0dbd\u0ddd\u0dba\u0dd2\u0da9\u0dca \u0d9a\u0ddd\u0dc2\u0dba\u0d9a\u0dd2\u0db1\u0dca \u0dc3\u0dd1\u0db8 \u0d9c\u0dd0\u0db8\u0dd2\u0da7\u0dcf\u0dc0\u0d9a\u0db8 \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0ddd\u0dc3\u0ddd\u0db8\u0dca 4\u0d9a\u0dca \u0db4\u0db8\u0dab\u0dd2 [Data: Reports (19)].",
+        "difficulty": "Medium",
+        "points": 2
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "type": "multiple_choice",
+        "question": "In the classroom conductivity experiment that tested common salt, copper sulfate, sugar solution and distilled water, which pair of solutions caused the bulb to light under the stated conditions?",
+        "question_sinhala": "\u0db4\u0db1\u0dca\u0dad\u0dd2 \u0d9a\u0dcf\u0db8\u0dbb\u0dba\u0dda \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0dd3\u0dad\u0dca\u0dc0 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dda \u0daf\u0dd3 \u0db4\u0ddc\u0daf\u0dd4 \u0dbd\u0dd4\u0dab (NaCl), \u0d9a\u0ddd\u0db4\u0dca\u0db4\u0dd4\u0dbb\u0dca \u0dc3\u0dbd\u0dca\u0dc6\u0dda\u0da7\u0dca (CuSO4), \u0dc3\u0dd3\u0db1\u0dd2 \u0daf\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dab\u0dba \u0dc3\u0dc4 \u0db1\u0dd2\u0dc1\u0dca\u0da0\u0dbd \u0da2\u0dbd\u0dba \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dcf \u0d9a\u0dc5 \u0dc0\u0dd2\u0da7, \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0dba\u0da7\u0dad\u0dda \u0db6\u0dbd\u0dca\u0db6\u0dba \u0daf\u0dd3\u0db4\u0dca\u0dad \u0d9a\u0dc5 \u0daf\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dab\u0dba\u0db1\u0dca \u0daf\u0dd9\u0d9a \u0d9a\u0dc0\u0dbb \u0daf?",
+        "options": [
+          "Salt & Sugar",
+          "Salt & Copper sulfate",
+          "Sugar & Distilled water",
+          "Copper sulfate & Distilled water"
+        ],
+        "options_sinhala": [
+          "\u0dbd\u0dd4\u0dab\u0dd4 \u0dc3\u0dc4 \u0dc3\u0dd3\u0db1\u0dd2",
+          "\u0dbd\u0dd4\u0dab\u0dd4 \u0dc3\u0dc4 \u0d9a\u0ddd\u0db4\u0dca\u0db4\u0dd4\u0dbb\u0dca \u0dc3\u0dbd\u0dca\u0dc6\u0dda\u0da7\u0dca",
+          "\u0dc3\u0dd3\u0db1\u0dd2 \u0dc3\u0dc4 \u0db1\u0dd2\u0dc1\u0dca\u0da0\u0dbd \u0da2\u0dbd\u0dba",
+          "\u0d9a\u0ddd\u0db4\u0dca\u0db4\u0dd4\u0dbb\u0dca \u0dc3\u0dbd\u0dca\u0dc6\u0dda\u0da7\u0dca \u0dc3\u0dc4 \u0db1\u0dd2\u0dc1\u0dca\u0da0\u0dbd \u0da2\u0dbd\u0dba"
+        ],
+        "correct_answer": "B",
+        "correct_answer_sinhala": "B: \u0dbd\u0dd4\u0dab\u0dd4 \u0dc3\u0dc4 \u0d9a\u0ddd\u0db4\u0dca\u0db4\u0dd4\u0dbb\u0dca \u0dc3\u0dbd\u0dca\u0dc6\u0dda\u0da7\u0dca",
+        "explanation": "Ionic solutions conducted electricity in the stated classroom setup, causing the bulb to light for common salt and copper sulfate; covalent sugar solution and distilled water did not light the bulb under those conditions [Data: Reports (7)].",
+        "explanation_sinhala": "\u0db4\u0db1\u0dca\u0dad\u0dd2 \u0d9a\u0dcf\u0db8\u0dbb\u0dba\u0dda \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8 \u0dba\u0da7\u0dad\u0dda \u0d85\u0dba\u0db1\u0dd2\u0d9a (ionic) \u0daf\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dab\u0dba\u0db1\u0dca \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0dba \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dc5 \u0db1\u0dd2\u0dc3\u0dcf \u0db6\u0dbd\u0dca\u0db6\u0dba \u0dbd\u0dd4\u0dab\u0dd4 \u0dc4\u0dcf \u0d9a\u0ddd\u0db4\u0dca\u0db4\u0dd4\u0dbb\u0dca \u0dc3\u0dbd\u0dca\u0dc6\u0dda\u0da7\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0dd3\u0db4\u0dca\u0dad \u0dc0\u0dd2\u0dba; \u0dc3\u0dd3\u0db1\u0dd2 (covalen t) \u0daf\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0dab\u0dba \u0dc3\u0dc4 \u0db1\u0dd2\u0dc1\u0dca\u0da0\u0dbd \u0da2\u0dbd\u0dba \u0d91\u0dc0\u0dd0\u0db1\u0dd2 \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0dba\u0da7\u0dad\u0dda \u0db6\u0dbd\u0dca\u0db6\u0dba \u0daf\u0dd3\u0db4\u0dca\u0dad \u0d9a\u0dc5\u0dda \u0db1\u0dd0\u0dc4\u0dd0 [Data: Reports (7)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "type": "short_answer",
+        "question": "Describe how you would use the 'activity of amylase on starch' timed assay to determine the rate of reaction. Include two controllable factors that may affect the observed rate.",
+        "question_sinhala": "'\u0d87\u0db8\u0dd2\u0dbd\u0dda\u0dc3\u0dca (amylase) \u0dc0\u0dd2\u0dc3\u0dd2\u0db1\u0dca \u0dc3\u0dca\u0da7\u0dcf\u0dbb\u0dca\u0da0\u0dca \u0dc0\u0dd2\u0d9a\u0dd2\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0' \u0dc3\u0db3\u0dc4\u0dcf \u0d87\u0dad\u0dd2 \u0d9a\u0dcf\u0dbd\u0dc3\u0dca\u0dae\u0dd2\u0dad \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dab\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf \u0dc0\u0dda\u0d9c\u0dba \u0db1\u0dd2\u0dba\u0dd0\u0daf\u0dd0\u0d9a\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d94\u0db6 \u0d9a\u0dd9\u0dc3\u0dda \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dd9\u0dad\u0dca\u0daf \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dbb\u0db1\u0dca\u0db1. \u0db1\u0dd2\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba \u0dc0\u0db1 \u0dc0\u0dda\u0d9c\u0dba \u0db6\u0dbd\u0db4\u0dcf\u0db1 \u0db4\u0dcf\u0dbd\u0dd2\u0dad \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 \u0d9a\u0dd2\u0dc4\u0dd2\u0db4\u0dba\u0d9a\u0dca \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1.",
+        "options": [],
+        "options_sinhala": [],
+        "correct_answer": "Expected answer: Take equal volumes of starch solution and amylase extract, mix and take samples at ~2\u2011minute intervals, test each sample with iodine; disappearance (or decrease) of blue\u2011black colour indicates starch hydrolysis. Plot starch concentration or colour intensity vs time and calculate initial rate. Controllable factors: enzyme concentration, substrate concentration, temperature, pH (choose any two and explain effect).",
+        "correct_answer_sinhala": "\u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb: \u0dc3\u0dca\u0da7\u0dcf\u0dbb\u0dca\u0da0\u0dca \u0daf\u0dca\u200d\u0dbb\u0dcf\u0dc0\u0db1\u0dba \u0dc3\u0dc4 \u0d87\u0db8\u0dd2\u0dbd\u0dda\u0dc3\u0dca \u0d86\u0dc1\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dba \u0dc3\u0db8\u0dcf\u0db1 \u0db4\u0dbb\u0dd2\u0db8\u0dcf\u0dab \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0db8\u0dd2\u0dc1\u0dca\u200d\u0dbb \u0d9a\u0dbb, \u22482-\u0db8\u0dd2\u0db1\u0dd2\u0dad\u0dca\u0dad\u0dd4 \u0d85\u0db1\u0dca\u0dad\u0dbb \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0dc3\u0dcf\u0db8\u0dca\u0db4\u0dbd\u0dca \u0d9c\u0db1\u0dca\u0db1; \u0dc3\u0dd1\u0db8 \u0dc3\u0dcf\u0db8\u0dca\u0db4\u0dbd\u0dba\u0d9a\u0da7\u0db8 \u0d85\u0dba\u0ddc\u0da9\u0dd2\u0db1\u0dca (iodine) \u0dba\u0dd9\u0daf\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db1\u0dd2\u0dbd-\u0d9a\u0dbd\u0dd4 \u0dc0\u0dbb\u0dca\u0dab\u0dba \u0d85\u0dc4\u0ddd\u0dc3\u0dd2 \u0dc0\u0dd3\u0db8 \u0dc4\u0ddd \u0d85\u0da9\u0dd4\u0dc0\u0dd3\u0db8 \u0dc3\u0dca\u0da7\u0dcf\u0dbb\u0dca\u0da0\u0dca \u0dc0\u0dd2\u0db7\u0da2\u0db1\u0dba \u0dc3\u0dd2\u0daf\u0dd4\u0dc0\u0dcf \u0d87\u0dad\u0dd2 \u0db6\u0dc0 \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dba\u0dd2. \u0dc3\u0dca\u0da7\u0dcf\u0dbb\u0dca\u0da0\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba \u0dc4\u0ddd \u0dc0\u0dbb\u0dca\u0dab \u0634\u062f\u0dca\u200d\u0dbb\u0dc0\u0dad\u0dcf\u0dc0 \u0d9a\u0dcf\u0dbd\u0dba \u0d85\u0db1\u0dd4\u0dc0 \u0dbb\u0dda\u0d9b\u0dcf\u0d9c\u0dad \u0d9a\u0dbb \u0d86\u0dbb\u0db8\u0dca\u0db7\u0d9a \u0dc0\u0dda\u0d9c\u0dba \u0d9c\u0dab\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1. \u0db4\u0dcf\u0dbd\u0dd2\u0dad \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0d9a\u0dbb\u0dd4\u0dab\u0dd4: \u0d91\u0db1\u0dca\u0dc3\u0dba\u0dd2\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba, \u0d8b\u0db4\u0dc1\u0dd3\u0dbd\u0dad\u0dcf\u0dc0 (substrate) \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba, \u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba, pH (\u0d8b\u0daf\u0dcf\u0dc4\u0dbb\u0dab \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dad\u0ddd\u0dbb\u0dcf \u0db6\u0dbd\u0db4\u0dd1\u0db8 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dbb\u0db1\u0dca\u0db1).",
+        "explanation": "The timed assay described in the dataset samples at ~2\u2011minute intervals and uses iodine to monitor starch hydrolysis; plotting concentration or color change against time gives the reaction rate. Common factors that alter enzyme activity include enzyme concentration, substrate concentration, temperature and pH [Data: Reports (5)].",
+        "explanation_sinhala": "\u0daf\u0dad\u0dca\u0dad \u0dc3\u0db8\u0dd4\u0daf\u0dcf\u0dba\u0dda \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dcf\u0dbd\u0dcf\u0db1\u0dd4\u0d9a\u0dd6\u0dbd \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0dda \u22482-\u0db8\u0dd2\u0db1\u0dd2\u0dad\u0dca\u0dad\u0dd4 \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dcf\u0db8\u0dca\u0db4\u0dbd\u0dca \u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0d85\u0dba\u0ddc\u0da9\u0dd2\u0db1\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0dca\u0da7\u0dcf\u0dbb\u0dca\u0da0\u0dca \u0dc0\u0dd2\u0db7\u0da2\u0db1\u0dba \u0db8\u0dad\u0dd2\u0db1\u0dca \u0db1\u0dd2\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba \u0d9a\u0dbb\u0db1 \u0d85\u0dad\u0dbb, \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc4\u0ddd \u0dc0\u0dbb\u0dca\u0dab \u0dc0\u0dd9\u0db1\u0dc3\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0dcf\u0dbd\u0dba\u0da7 \u0d91\u0dbb\u0dd9\u0dc4\u0dd2\u0dc0 \u0dbb\u0dda\u0d9b\u0dcf\u0d9c\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf \u0dc0\u0dda\u0d9c\u0dba \u0d9c\u0dab\u0db1\u0dba \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a. \u0d91\u0db1\u0dca\u0dc3\u0dba\u0dd2\u0db8\u0dca \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0dd2\u0dad\u0dca\u0dc0\u0dba \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0db1 \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d9a\u0dbb\u0dd4\u0dab\u0dd4: \u0d91\u0db1\u0dca\u0dc3\u0dba\u0dd2\u0db8\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba, \u0d8b\u0db4\u0dc1\u0dd3\u0dbd\u0dad\u0dcf\u0dc0 \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba, \u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba \u0dc3\u0dc4 pH [Data: Reports (5)].",
+        "difficulty": "Medium",
+        "points": 2
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "type": "true_false",
+        "question": "Yeast is classified as a fungus.",
+        "question_sinhala": "\u0dba\u0dd3\u0dc3\u0dca\u0da7\u0dca (yeast) \u0da9\u0dca\u0dbb\u0dd0\u0dc0\u0dba (\u0dc0\u0dbb\u0dca\u0d9c\u0dd3\u0d9a\u0dbb\u0dab\u0dba) \u0dbd\u0dd9\u0dc3 \u0dc6\u0d82\u0d9c\u0dc3\u0dca (\u0d8b\u0d9c\u0dd4\u0dbb\u0dd4) \u0dbd\u0dd9\u0dc3 \u0dc0\u0dbb\u0dca\u0d9c\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1\u0dda \u0db1\u0dda\u0daf?",
+        "options": [
+          "True",
+          "False"
+        ],
+        "options_sinhala": [
+          "\u0dc3\u0dad\u0dca\u200d\u0dba",
+          "\u0d85\u0dc3\u0dad\u0dca\u200d\u0dba"
+        ],
+        "correct_answer": "True",
+        "correct_answer_sinhala": "\u0dc3\u0dad\u0dca\u200d\u0dba",
+        "explanation": "The instructional materials treat yeast as an exemplar and explicitly classify it as a fungus in classification exercises [Data: Reports (14, 26)].",
+        "explanation_sinhala": "\u0d8b\u0d9c\u0db1\u0dca\u0dc0\u0db1 \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0dba \u0dad\u0dd4\u0dc5 \u0dba\u0dd3\u0dc3\u0dca\u0da7\u0dca \u0d8b\u0daf\u0dcf\u0dc4\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0dc3\u0dbd\u0d9a\u0db1\u0dd4 \u0dbd\u0db6\u0dba\u0dd2 \u0dc3\u0dc4 \u0dc0\u0dbb\u0dca\u0d9c\u0dd3\u0d9a\u0dbb\u0dab \u0db4\u0dd4\u0dc4\u0dd4\u0dab\u0dd4\u0dc0\u0dbd\u0daf\u0dd3 \u0d91\u0dba \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2\u0dc0\u0db8 \u0dc6\u0d82\u0d9c\u0dc3\u0dca (\u0d8b\u0d9c\u0dd4\u0dbb\u0dd4) \u0dbd\u0dd9\u0dc3 \u0dc0\u0dbb\u0dca\u0d9c\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dbb \u0d87\u0dad [Data: Reports (14, 26)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "type": "essay",
+        "question": "Explain how reproduction, growth and development form a continuity of life from gamete fusion to embryo. Then design a simple classroom experiment (for example using an auxanometer or ruler measurements) to measure plant growth over time, describing the procedure, controls, data collection and how you would interpret results.",
+        "question_sinhala": "\u0d9c\u0dd0\u0db8\u0dd2\u0da7\u0dcf \u0d91\u0d9a\u0dca\u0dc0\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0db4\u0da7\u0db1\u0dca \u0d9c\u0db1\u0dd2\u0db8\u0dd2\u0db1\u0dca \u0db4\u0dd4\u0db1\u0dbb\u0dd4\u0dad\u0dca\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8, \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc4\u0dcf \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0\u0dc0 \u0da2\u0dd3\u0dc0\u0dad\u0dca\u0dc0\u0dd3\u0db8\u0dda \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dca \u0d9a\u0dd9\u0dcf\u0dc4\u0ddc\u0db8\u0daf \u0dc3\u0dd1\u0daf\u0dd9\u0db1\u0dda \u0dba\u0db1\u0dca\u0db1 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dbb\u0db1\u0dca\u0db1. \u0d91\u0db4\u0db8\u0dab\u0d9a\u0dca \u0db1\u0ddc\u0dc0, \u0dc3\u0dbb\u0dbd \u0db4\u0db1\u0dca\u0dad\u0dd2 \u0d9c\u0dd0\u0db8\u0dd4\u0dab\u0dd4 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca (\u0d8b\u0daf\u0dcf\u0dc4\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0d94\u0d9a\u0dca\u0dc3\u0dd0\u0db1\u0ddd\u0db8\u0dd3\u0da7\u0dbb\u0dba\u0d9a\u0dca \u0dc4\u0ddd \u0db1\u0dd4\u0db9\u0dbd \u0db8\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0dd9\u0db1\u0dca) \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca \u0d9a\u0dbb, \u0d9a\u0dca\u200d\u0dbb\u09bf\u09af\u09bc\u09be \u0dc0\u0dd2\u0db0\u0dd2, \u0db4\u0dcf\u0dbd\u0d9a, \u0daf\u0dad\u0dca\u0dad \u0d91\u0d9a\u0dad\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd\u0dc0\u0dbd \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2\u0dc0 \u0dc0\u0dd9\u0db1\u0dc3\u0dca\u0d9a\u0db8\u0dca \u0d9a\u0ddc\u0dc4\u0ddc\u0db8 \u0dc0\u0dd9\u0db1\u0dca\u0daf\u0dd0\u0d9a\u0dca\u0dc0\u0dd9\u0db1\u0dcf\u0daf \u0dba\u0db1\u0dca\u0db1 \u0dc0\u0dd2\u0dc3\u0dca\u0dad\u0dbb \u0d9a\u0dbb\u0db1\u0dca\u0db1.",
+        "options": [],
+        "options_sinhala": [],
+        "correct_answer": "See explanation: expected points include (1) clear linkage: gamete fusion \u2192 zygote \u2192 cell division/differentiation \u2192 embryo (development) showing continuity of life; (2) experimental design: select plant species, define independent variable (time), controls (same light, water, soil), measurements (auxanometer/ruler at regular intervals), replication; (3) data handling: record measurements, plot growth vs time, calculate growth rate; (4) interpretation: identify growth phases, effect of conditions, sources of error.",
+        "correct_answer_sinhala": "\u0db4\u0dd2\u0dc5\u0dd2\u0dad\u0dd4\u0dbb \u0db6\u0dbd\u0db1\u0dca\u0db1: \u0d85\u0db4\u0dda\u0d9a\u0dca\u0dc2\u0dd2\u0dad \u0d9a\u0dbb\u0dd4\u0dab\u0dd4 \u0dc3\u0db3\u0dc4\u0dcf (1) \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dad\u0dcf\u0dc0\u0dba\u0d9a\u0dca: \u0d9c\u0dd0\u0db8\u0dd2\u0da7\u0dcf \u0d91\u0d9a\u0dca\u0dc0\u0dd3\u0db8 \u2192 \u0dc3\u0dba\u0dd2\u0d9c\u0ddc\u0da7\u0dca \u2192 \u0d9a\u0ddd\u0dc2 \u0db6\u0dd9\u0daf\u0dd3\u0db8/\u0dc0\u0dd2\u0dc0\u0dd2\u0db0\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u2192 \u0d9c\u0dbb\u0dca\u0db7\u0dba\u0dcf\u0db7\u0dd2\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba (development) \u0dbd\u0dd9\u0dc3 \u0da2\u0dd3\u0dc0\u0dd2\u0dad\u0dba\u0dda \u0d85\u0d9b\u0dab\u0dca\u0da9\u0dad\u0dcf\u0dc0\u0dba \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dd3\u0db8; (2) \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8: \u0db4\u0dd0\u0dc5 \u0db4\u0ddc\u0daf\u0dd4\u0dc0 \u0dad\u0ddd\u0dbb\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8, \u0dc3\u0dca\u0dc0\u0dcf\u0db0\u0dd3\u0db1 \u0da0\u0dbb (\u0d9a\u0dcf\u0dbd\u0dba), \u0db4\u0dcf\u0dbd\u0d9a (\u0d91\u0d9a\u0db8 \u0d86\u0dbd\u0ddd\u0d9a\u0dba, \u0da2\u0dbd\u0dba, \u0db8\u0da9), \u0db8\u0dd0\u0db1\u0dd4\u0db8\u0dca (\u0d95\u0d9a\u0dca\u0dc3\u0dd0\u0db1\u0ddd\u0db8\u0dd3\u0da7\u0dbb\u0dba/\u0db1\u0dcf\u0db4\u0dda \u0db8\u0dd0\u0db1\u0dd3\u0db8 \u0dba\u0dd9\u0daf\u0dc0\u0dd3\u0db8) \u0dc3\u0dc4 \u0dc3\u0db8\u0dcf\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dad\u0dca\u0dad\u0dd2; (3) \u0daf\u0dad\u0dca\u0dad \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba: \u0db8\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0dc3\u0da7\u0dc4\u0db1\u0dca\u0d9a\u0dbb\u0dab\u0dba, \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u2011\u0d9a\u0dcf\u0dbd\u0dba \u0db4\u0dc5 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8, \u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dda\u0d9c\u0dba \u0d9c\u0dab\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8; (4) \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0d85\u0dbb\u0dca\u0dae\u0d9a\u0dae\u0db1\u0dba: \u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0d85\u0daf\u0dd2\u0dba\u0dbb \u0dc4\u0db3\u0dd4\u0db1\u0dcf\u0d9c\u0dd0\u0db1\u0dd3\u0db8, \u0d9a\u0ddc\u0db1\u0dca\u0daf\u0dda\u0dc3\u0dd2 \u0dc0\u0dbd \u0db6\u0dbd\u0db4\u0dd1\u0db8\u0dca \u0dc3\u0dc4 \u0daf\u0ddd\u0dc2 \u0db8\u0dd6\u0dbd\u0dcf\u0dc1\u0dca\u200d\u0dbb \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8.",
+        "explanation": "Expected essay content should (a) accurately explain the biological sequence linking reproduction, growth and development (fertilization \u2192 zygote \u2192 cell division/differentiation \u2192 embryo) and why this ensures continuity; (b) present a workable classroom experiment with clear variables, controls and replication (e.g., measure stem elongation with auxanometer or ruler every 2\u20133 days); (c) show how to collect and present data (tables, graphs) and derive growth rate; (d) interpret results and discuss limitations/sources of error. Use references to the textbook material linking fertilization to embryo and growth measurement activities [Data: Reports (14)].",
+        "explanation_sinhala": "\u0d86\u0dc1\u0dcf\u0dc0\u0dd2\u0dad \u0dbb\u0da0\u0db1\u0dcf \u0d85\u0db1\u0dca\u0dad\u0dbb\u0dca\u0d9c\u0dad\u0dba (a) \u0db4\u0dca\u200d\u0dbb\u0da2\u0db1\u0db1\u0dba, \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc4\u0dcf \u0dc3\u0d82\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0d9a\u0dbb\u0db1 \u0da2\u0dd3\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d85\u0db1\u0dd4\u0db4\u0dd2\u0dc5\u0dd2\u0dc0\u0dd9\u0dc5 (\u0db4\u0dca\u200d\u0dbb\u0da2\u0db1\u0db1 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc0 \u2192 \u0dc3\u0dba\u0dd2\u0d9c\u0ddc\u0da7\u0dca \u2192 \u0d9a\u0ddd\u0dc2 \u0db6\u0dd9\u0daf\u0dd3\u0db8/\u0dc0\u0dd2\u0dc0\u0dd2\u0db0\u0dd3\u0d9a\u0dbb\u0dab\u0dba \u2192 \u0d9c\u0dbb\u0dca\u0db7\u0dba\u0dcf\u0db7\u0dd2\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba) \u0db1\u0dd2\u0dc0\u0dd0\u0dbb\u0daf\u0dd2\u0dc0 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba; (b) \u0daf\u0dd8\u0dc1\u0dca\u200d\u0dba \u0db4\u0db1\u0dca\u0dad\u0dd2 \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba\u0d9a\u0dca \u0dc0\u0dca\u200d\u0dba\u0dcf\u0db4\u0dd8\u0dad\u0dd2\u0db8\u0dba \u0dbd\u0dd9\u0dc3 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba \u2014 \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0da0\u0dbb/\u0db4\u0dcf\u0dbd\u0d9a/\u0db4\u0dd4\u0dab\u0dbb\u0dd4\u0dad\u0dca\u0db4\u0dad\u0dca\u0dad\u0dd2\u0dba (\u0d8b\u0daf\u0dcf\u0dc4\u0dbb\u0dab\u0dba\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0daf\u0dd2\u0db1 2\u20133 \u0d9a \u0dc0\u0dd2\u0db1\u0dd2\u0dc0\u0dd2\u0daf \u0db8\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0dc3\u0db3\u0dc4\u0dcf \u0d94\u0d9a\u0dca\u0dc3\u0dd0\u0db1\u0ddd\u0db8\u0dd3\u0da7\u0dbb\u0dba\u0d9a\u0dca \u0dc4\u0ddd \u0db1\u0dd4\u0db8\u0dca\u0db6\u0dbd\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb \u0dad\u0dab\u0db4\u0dc4 \u0d8b\u0dbb\u0dc4\u0dd2\u0dc3 \u0dc0\u0dd8\u0daf\u0dca\u0db0\u0dd2\u0dba \u0db8\u0dd0\u0db1\u0dd3\u0db8); (c) \u0daf\u0dad\u0dca\u0dad \u0d91\u0d9a\u0dad\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 \u0dc3\u0dc4 \u0d89\u0daf\u0dd2\u0dbb\u0dd2\u0db4\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 (\u0dc3\u0da7\u0dc4\u0db1\u0dca, \u0dc0\u0d9a\u0dca\u200d\u0dbb, \u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0dc0\u0dda\u0d9c \u0d9c\u0dab\u0db1\u0dba) \u0db4\u0dd0\u0dc4\u0dd0\u0daf\u0dd2\u0dbd\u0dd2 \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba; (d) \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db5\u0dbd \u0d85\u0dbb\u0dca\u0dae \u0db1\u0dd2\u0dbb\u0dd6\u0db4\u0dab\u0dba \u0dc3\u0dc4 \u0dc3\u0dd3\u0db8\u0dcf/\u0daf\u0ddd\u0dc2 \u0db8\u0dd6\u0dbd\u0dcf\u0dc1\u0dca\u200d\u0dbb \u0dc3\u0dcf\u0d9a\u0da0\u0dca\u0da1\u0dcf \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba. \u0db4\u0dca\u200d\u0dbb\u0da2\u0db1\u0db1\u0dba\u0dd9\u0db1\u0dca \u0d9c\u0dbb\u0dca\u0db7\u0dba\u0dcf\u0db7\u0dd2\u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba\u0da7 \u0db4\u0dad\u0dca \u0dc0\u0dd3\u0db8 \u0dc3\u0dc4 \u0dc0\u0dbb\u0dca\u0db0\u0db1 \u0db8\u0dd0\u0db1\u0dd4\u0db8\u0dca \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0db1\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dd2\u0dad \u0db4\u0dcf\u0da8\u0db8\u0dcf\u0dbd\u0dcf \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0dba\u0da7 \u0dba\u0ddc\u0db8\u0dd4 \u0dc0\u0dd2\u0dba \u0dba\u0dd4\u0dad\u0dd4\u0dba [Data: Reports (14)].",
+        "difficulty": "Medium",
+        "points": 5
+      }
+    ],
+    "selectedSections": [],
+    "source": {
+      "id": "course-f05a89349a36d61f",
+      "title": "Custom Science Book"
+    },
+    "sourceId": "course-f05a89349a36d61f",
+    "sourceType": "course",
+    "status": "ready",
+    "title": "Test - Custom Science Book",
+    "type": "test"
+  },
+  {
+    "id": "assessment-9abb089a9f969c2d",
+    "created_at": "2025-12-31T15:18:32.447402",
+    "difficulty": "medium",
+    "numQuestions": 10,
+    "objectives": [],
+    "questionTypes": {
+      "multipleChoice": true,
+      "shortAnswer": true,
+      "essay": false,
+      "trueFalse": false
+    },
+    "questions": [
+      {
+        "id": "q1",
+        "number": 1,
+        "type": "multiple_choice",
+        "question": "Yeast is commonly used as a model organism in classification exercises. Into which kingdom is unicellular baker's yeast normally classified?",
+        "question_sinhala": "",
+        "options": [
+          "A. Protista",
+          "B. Fungi",
+          "C. Plantae",
+          "D. Monera (Bacteria)"
+        ],
+        "options_sinhala": [],
+        "correct_answer": "B",
+        "correct_answer_sinhala": "",
+        "explanation": "Yeast are unicellular fungi; they are placed in the kingdom Fungi because of their heterotrophic nutrition, chitinous cell wall remnants in related groups, and fungal life-history features used in classification [Data: Reports (26, 14)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "type": "short_answer",
+        "question": "List four key differences between mitosis and meiosis (structure/process and biological consequence).",
+        "question_sinhala": "",
+        "options": [],
+        "options_sinhala": [],
+        "correct_answer": "Key points: Mitosis: one division, produces two diploid daughter cells genetically identical to parent (clonal), used for growth, tissue maintenance, asexual reproduction. Meiosis: two sequential divisions (meiosis I and II), produces four haploid gametes that are genetically distinct, includes homologous pairing, crossing over and independent assortment which create genetic variation; meiosis plus fertilization restores diploidy [Data: Reports (19, 11)].",
+        "correct_answer_sinhala": "",
+        "explanation": "Mitosis maintains chromosome number and genetic identity; meiosis reduces chromosome number and introduces genetic variation via homologous recombination and independent assortment; roles differ (growth/repair vs gamete formation and inheritance) [Data: Reports (19, 11)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 2
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "type": "multiple_choice",
+        "question": "Which pair of meiotic mechanisms are primarily responsible for generating genetic variation among gametes?",
+        "question_sinhala": "",
+        "options": [
+          "A. Crossing-over (recombination) and independent assortment",
+          "B. Crossing-over and point mutations during DNA replication",
+          "C. Independent assortment and mitotic segregation",
+          "D. Gene conversion and somatic recombination"
+        ],
+        "options_sinhala": [],
+        "correct_answer": "A",
+        "correct_answer_sinhala": "",
+        "explanation": "The two main meiotic processes that create variation are (1) crossing-over between homologous chromosomes during prophase I (recombination) and (2) independent assortment of different chromosome pairs at metaphase I. Mutations can contribute to variation but are not the primary meiotic mechanisms cited in the source [Data: Reports (19)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "type": "multiple_choice",
+        "question": "In the 'Activity: Activity of Amylase on Starch' (time-course with iodine), which experimental change would most directly increase the initial rate of starch hydrolysis, assuming other conditions are optimal?",
+        "question_sinhala": "",
+        "options": [
+          "A. Decrease the concentration of amylase extract",
+          "B. Increase the concentration of amylase extract",
+          "C. Reduce the substrate (starch) concentration significantly",
+          "D. Add a large amount of table sugar (sucrose) to the reaction mixture"
+        ],
+        "options_sinhala": [],
+        "correct_answer": "B",
+        "correct_answer_sinhala": "",
+        "explanation": "Increasing enzyme concentration (amylase) while substrate is in excess increases the number of active sites available and therefore increases the initial reaction rate. The referenced experiment measures reaction rate by disappearance of the starch\u2013iodine complex over time [Data: Reports (5)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q5",
+        "number": 5,
+        "type": "short_answer",
+        "question": "Explain why a solution of sodium chloride conducts electricity while a solution of sugar (sucrose) does not, and name two experimental observations that support this explanation.",
+        "question_sinhala": "",
+        "options": [],
+        "options_sinhala": [],
+        "correct_answer": "Key points: NaCl dissociates into Na+ and Cl\u2212 ions in water, providing mobile charge carriers that conduct electricity; sucrose dissolves as neutral molecules and does not produce ions, so it does not conduct. Experimental observations: in the circuit activity the bulb lights with salt solution and with CuSO4 solution (ionic), but not with sugar solution or distilled water (no ions) [Data: Reports (7, 12, 5)].",
+        "correct_answer_sinhala": "",
+        "explanation": "Ionic compounds conduct in solution because of free ions; covalent molecular solutes generally do not unless they ionize. The dataset's conductivity experiment (bulb lighting only with salt and CuSO4) supports this conclusion [Data: Reports (7)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 2
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "type": "true_false",
+        "question": "Viruses can reproduce independently outside a host cell.",
+        "question_sinhala": "",
+        "options": [
+          "True",
+          "False"
+        ],
+        "options_sinhala": [],
+        "correct_answer": "False",
+        "correct_answer_sinhala": "",
+        "explanation": "Viruses lack the cellular machinery for independent reproduction and therefore must infect host cells to replicate; the textbook describes viral reproduction inside host cells and bacteriophage injection examples [Data: Reports (27)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q7",
+        "number": 7,
+        "type": "multiple_choice",
+        "question": "How many atoms are present in 0.25 mol of carbon atoms? (Use Avogadro's constant \u2248 6.022 \u00d7 10^23 mol^\u22121.)",
+        "question_sinhala": "",
+        "options": [
+          "A. 1.51 \u00d7 10^22",
+          "B. 1.51 \u00d7 10^23",
+          "C. 2.41 \u00d7 10^23",
+          "D. 6.02 \u00d7 10^24"
+        ],
+        "options_sinhala": [],
+        "correct_answer": "B",
+        "correct_answer_sinhala": "",
+        "explanation": "Number of atoms = moles \u00d7 Avogadro's constant = 0.25 \u00d7 6.022\u00d710^23 \u2248 1.5055\u00d710^23 \u2248 1.51\u00d710^23. The dataset treats the mole and Avogadro constant as the link between particle count and amount of substance [Data: Reports (9)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q8",
+        "number": 8,
+        "type": "multiple_choice",
+        "question": "In the circuit experiment comparing conductivity of solutions, the bulb glows when two carbon rods are dipped into salt (NaCl) solution or CuSO4 solution, but not when dipped into sugar solution or distilled water. Which explanation best matches the observations?",
+        "question_sinhala": "",
+        "options": [
+          "A. Salt and CuSO4 produce mobile ions in solution; sugar and distilled water do not produce sufficient ions.",
+          "B. Sugar always absorbs the current, preventing the bulb from glowing.",
+          "C. Distilled water contains free electrons that short-circuit the bulb.",
+          "D. CuSO4 forms covalent molecules that conduct by electron delocalization."
+        ],
+        "options_sinhala": [],
+        "correct_answer": "A",
+        "correct_answer_sinhala": "",
+        "explanation": "Salt (NaCl) and copper sulfate dissolve to give ions (Na+, Cl\u2212; Cu2+, SO4^2\u2212) that carry electric charge through the solution, completing the circuit and lighting the bulb. Sugar dissolves as neutral molecules and distilled water lacks ions, so the bulb does not glow [Data: Reports (7, 12)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q9",
+        "number": 9,
+        "type": "essay",
+        "question": "Explain how meiosis and fertilization together maintain the chromosome number in a species and also generate genetic diversity among offspring. In your answer describe the meiotic stages and mechanisms that create variation and explicitly state how ploidy is restored at fertilization.",
+        "question_sinhala": "",
+        "options": [],
+        "options_sinhala": [],
+        "correct_answer": "Expected content summary: Describe that meiosis involves one round of DNA replication followed by two divisions (meiosis I reduces chromosome number from diploid to haploid; meiosis II separates sister chromatids) producing four haploid gametes. Explain mechanisms: homologous pairing and crossing-over in prophase I (recombination) and independent assortment of homologous pairs at metaphase I produce new allele combinations. State that fertilization (fusion of two haploid gametes) restores diploid chromosome number in the zygote. Provide at least one diagram or clear stage-by-stage description and use correct terms (homologous chromosomes, sister chromatids, reduction division, recombination, independent assortment, diploid, haploid) [Data: Reports (19, 11)].",
+        "correct_answer_sinhala": "",
+        "explanation": "Evaluation criteria (use for marking): completeness (all required stages included) 30%; accuracy of mechanisms explained (crossing-over, independent assortment) 30%; clear explanation of how ploidy is reduced and restored (meiosis I reduction, fertilization restores diploidy) 20%; clarity/organization and correct terminology/diagrams 20%. Answers shall mention both the maintenance of species chromosome number and the generation of genetic variation via meiotic mechanisms [Data: Reports (19)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 4
+      },
+      {
+        "id": "q10",
+        "number": 10,
+        "type": "multiple_choice",
+        "question": "Which of the following molecules is best represented by a triple covalent bond in a Lewis (dot-and-cross) structure?",
+        "question_sinhala": "",
+        "options": [
+          "A. H2",
+          "B. O2",
+          "C. N2",
+          "D. HCl"
+        ],
+        "options_sinhala": [],
+        "correct_answer": "C",
+        "correct_answer_sinhala": "",
+        "explanation": "N2 (dinitrogen) contains a nitrogen\u2013nitrogen triple bond (three shared electron pairs). H2 has a single bond, O2 a double bond (in its common Lewis depiction), and HCl a single polar covalent bond. The dataset's representational activities include drawing molecules (H2, O2, N2, HCl) with dot-and-cross and bead models [Data: Reports (5, 22)].",
+        "explanation_sinhala": "",
+        "difficulty": "Medium",
+        "points": 1
+      }
+    ],
+    "selectedSections": [],
+    "source": {
+      "id": "course-f05a89349a36d61f",
+      "title": "Custom Science Book"
+    },
+    "sourceId": "course-f05a89349a36d61f",
+    "sourceType": "course",
+    "status": "ready",
+    "title": "Test - Custom Science Book",
+    "type": "test"
+  },
+  {
+    "id": "assessment-b1baa7d2c6821df2",
+    "created_at": "2026-01-01T15:55:31.770375",
+    "difficulty": "medium",
+    "numQuestions": 10,
+    "objectives": [],
+    "questionTypes": {
+      "multipleChoice": true,
+      "shortAnswer": true,
+      "essay": false,
+      "trueFalse": false
+    },
+    "questions": [
+      {
+        "id": "q-1",
+        "type": "multiple_choice",
+        "question": "Sample multiple choice question 1 about the content",
+        "question_sinhala": "",
+        "points": 1,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correct_answer": "Option A"
+      },
+      {
+        "id": "q-2",
+        "type": "short_answer",
+        "question": "Sample short answer question 2 about the content",
+        "question_sinhala": "",
+        "points": 3,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "correct_answer": "Sample answer based on content"
+      },
+      {
+        "id": "q-3",
+        "type": "multiple_choice",
+        "question": "Sample multiple choice question 3 about the content",
+        "question_sinhala": "",
+        "points": 1,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correct_answer": "Option A"
+      },
+      {
+        "id": "q-4",
+        "type": "short_answer",
+        "question": "Sample short answer question 4 about the content",
+        "question_sinhala": "",
+        "points": 3,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "correct_answer": "Sample answer based on content"
+      },
+      {
+        "id": "q-5",
+        "type": "multiple_choice",
+        "question": "Sample multiple choice question 5 about the content",
+        "question_sinhala": "",
+        "points": 1,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correct_answer": "Option A"
+      },
+      {
+        "id": "q-6",
+        "type": "short_answer",
+        "question": "Sample short answer question 6 about the content",
+        "question_sinhala": "",
+        "points": 3,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "correct_answer": "Sample answer based on content"
+      },
+      {
+        "id": "q-7",
+        "type": "multiple_choice",
+        "question": "Sample multiple choice question 7 about the content",
+        "question_sinhala": "",
+        "points": 1,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correct_answer": "Option A"
+      },
+      {
+        "id": "q-8",
+        "type": "short_answer",
+        "question": "Sample short answer question 8 about the content",
+        "question_sinhala": "",
+        "points": 3,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "correct_answer": "Sample answer based on content"
+      },
+      {
+        "id": "q-9",
+        "type": "multiple_choice",
+        "question": "Sample multiple choice question 9 about the content",
+        "question_sinhala": "",
+        "points": 1,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "options": [
+          "Option A",
+          "Option B",
+          "Option C",
+          "Option D"
+        ],
+        "correct_answer": "Option A"
+      },
+      {
+        "id": "q-10",
+        "type": "short_answer",
+        "question": "Sample short answer question 10 about the content",
+        "question_sinhala": "",
+        "points": 3,
+        "difficulty": "medium",
+        "options_sinhala": [],
+        "correct_answer_sinhala": "",
+        "explanation_sinhala": "",
+        "correct_answer": "Sample answer based on content"
+      }
+    ],
+    "selectedSections": [],
+    "source": {
+      "id": "course-021539b87043f056",
+      "title": "course 11"
+    },
+    "sourceId": "course-021539b87043f056",
+    "sourceType": "course",
+    "status": "ready",
+    "title": "Test - course 11",
+    "type": "test"
+  },
+  {
+    "id": "assessment-cf877a738f27a427",
+    "created_at": "2026-01-04T18:02:26.597727",
+    "difficulty": "medium",
+    "numQuestions": 2,
+    "objectives": [],
+    "questionTypes": {
+      "multipleChoice": true,
+      "shortAnswer": false,
+      "essay": false,
+      "trueFalse": false
+    },
+    "questions": [],
+    "selectedSections": [],
+    "source": {
+      "id": "course-eddcb89307e00fd0",
+      "title": "Course 001"
+    },
+    "sourceId": "course-eddcb89307e00fd0",
+    "sourceType": "course",
+    "status": "generating",
+    "title": "Test - Course 001",
+    "type": "test"
+  },
+  {
+    "id": "assessment-fc011af2f9532a1f",
+    "created_at": "2026-01-17T16:36:27.082093",
+    "difficulty": "medium",
+    "numQuestions": 10,
+    "objectives": [],
+    "questionTypes": {
+      "multipleChoice": true,
+      "shortAnswer": false,
+      "essay": false,
+      "trueFalse": false
+    },
+    "questions": [
+      {
+        "id": "q5",
+        "number": 5,
+        "type": "multiple_choice",
+        "question": "Two elements, X and Y, are in the same group of the periodic table. Which property is most likely to be similar for X and Y?",
+        "question_sinhala": "X \u0dc3\u0dc4 Y \u0db1\u0db8\u0dca \u0d85\u0d82\u0dc1\u0d9a \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dc3\u0db8\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0d9c\u0dd4\u0dc0\u0dda \u0d91\u0d9a\u0db8 \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba\u0d9a (group) \u0dad\u0dd2\u0db6\u0dda \u0db1\u0db8\u0dca, X \u0dc3\u0dc4 Y \u0d9c\u0dd9\u0db1\u0dca \u0d92\u0d9a\u0dcf\u0d9a\u0dcf\u0dbb \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dc3\u0db8\u0dc4\u0dbb \u0daf\u0dda \u0db4\u0dc4\u0dad \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d85\u0dad\u0dbb\u0dd2\u0db1\u0dca \u0d9a\u0dd4\u0db8\u0d9a\u0dca \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a\u0dd2\u0daf?",
+        "options": [
+          "Their valence electron configuration and typical chemical reactivity.",
+          "Their atomic radius exactly the same.",
+          "Their mass number is identical.",
+          "Their physical state (solid/liquid/gas) at room temperature is the same."
+        ],
+        "options_sinhala": [
+          "\u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dba\u0dbd\u0dd3 \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dba \u0dc4\u0dcf \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0dbb\u0dc3\u0dcf\u0dba\u0db1\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc1\u0dd3\u0dbd\u0dd3\u0dad\u0dca\u0dc0\u0dba.",
+          "\u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0d9a\u0dab\u0dca\u0dab\u0dd2\u0d9a\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd2\u0dc2\u0dca\u0d9a\u0db8\u0dca\u0db7\u0dba \u0db1\u0dd2\u0dbb\u0dc0\u0daf\u0dca\u200d\u0dba\u0dc0 \u0d91\u0d9a\u0db8 \u0dc0\u0dda.",
+          "\u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0db8\u0dba \u0d85\u0d82\u0d9a\u0dba (mass number) \u0d91\u0d9a\u0dc3\u0dda \u0dc0\u0dda.",
+          "\u0d9a\u0dcf\u0db8\u0dbb \u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba\u0dda \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0db7\u0dde\u0dad\u0dd2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba (\u0daf\u0dca\u200d\u0dbb\u0dc0/\u0dc3\u0dd3\u0dad\u0dbd/\u0dc0\u0d9a\u0dcf\u0dc1) \u0d91\u0d9a\u0dd2\u0db1\u0dd9\u0d9a\u0da7 \u0dc3\u0db8\u0dcf\u0db1 \u0dc0\u0dda."
+        ],
+        "correct_answer": "Their valence electron configuration and typical chemical reactivity.",
+        "correct_answer_sinhala": "\u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dc0\u0dd2\u0dba\u0dbd\u0dd3 \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dba \u0dc4\u0dcf \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0dbb\u0dc3\u0dcf\u0dba\u0db1\u0dd2\u0d9a \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0dc1\u0dd3\u0dbd\u0dd3\u0dad\u0dca\u0dc0\u0dba.",
+        "explanation": "Elements in the same group have similar valence electron arrangements, which leads to similar chemical behaviour (patterns in the periodic table topic). Other properties (radius, mass, physical state) can vary down a group. The chapter TOC includes 'patterns seen in the periodic table' and 'electronic configuration' [Data: Sources (2)].",
+        "explanation_sinhala": "\u0d91\u0d9a\u0dca\u0db8 \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba\u0d9a \u0d85\u0dba\u0dad\u0dca \u0d85\u0d82\u0dc1\u0d9a\u0dc0\u0dbb\u0dd4\u0db1\u0dca\u0da7 \u0dc0\u0dd2\u0dba\u0dbd\u0dd3 (valence) \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dba \u0dc3\u0db8\u0dd3\u0db4 \u0dc0\u0db1 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0d94\u0dc0\u0dd4\u0db1\u0dca\u0d9c\u0dda \u0dbb\u0dc3\u0dcf\u0dba\u0db1\u0dd2\u0d9a \u0dc4\u0dd0\u0dc3\u0dd2\u0dbb\u0dd3\u0db8\u0dad\u0dca \u0dc3\u0db8\u0dcf\u0db1 \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a. \u0d85\u0db1\u0dd9\u0d9a\u0dca \u0d9c\u0dd4\u0dab\u0dcf\u0d82\u0d9c (\u0dc0\u0dd2\u0dc2\u0dca\u0d9a\u0db8\u0dca\u0db7\u0dba, \u0db6\u0dbb, \u0db7\u0dde\u0dad\u0dd2\u0d9a \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba) \u0d9a\u0dcf\u0dab\u0dca\u0da9\u0dba \u0dc4\u0dbb\u0dc4\u0dcf \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dd2\u0dba \u0dc4\u0dd0\u0d9a. \u0db8\u0dd9\u0db8 \u0d85\u0daf\u0dc4\u0dc3 'periodic table patterns' \u0dc3\u0dc4 'electronic configuration' \u0db8\u0dcf\u0dad\u0dd8\u0d9a\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0d85\u0daf\u0dcf\u0dc5\u0dba\u0dd2 [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q2",
+        "number": 2,
+        "type": "multiple_choice",
+        "question": "Which electronic configuration corresponds to the noble gas argon (Z = 18)?",
+        "question_sinhala": "\u0db1\u0dd2\u0dc2\u0dca\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba \u0dc0\u0dcf\u0dba\u0dd4\u0dc0 Argon (\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab\u0dba Z = 18) \u0dc3\u0db3\u0dc4\u0dcf \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dba \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
+        "options": [
+          "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076",
+          "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2074",
+          "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u00b3",
+          "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b9 3p\u2076"
+        ],
+        "options_sinhala": [
+          "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076",
+          "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2074",
+          "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u00b3",
+          "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b9 3p\u2076"
+        ],
+        "correct_answer": "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076",
+        "correct_answer_sinhala": "1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076",
+        "explanation": "Argon has 18 electrons that fill shells in order: 2 (1s), 8 (2s+2p), and 8 (3s+3p) giving 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076. Electronic configuration and related topics are within the chapter TOC (electronic configuration, modern periodic table) [Data: Sources (2)].",
+        "explanation_sinhala": "Argon\u0da7 \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 18\u0d9a\u0dca \u0d87\u0dad\u0dd2 \u0d85\u0dad\u0dbb \u0d92\u0dc0\u0dcf \u0dc1\u0dd9\u0dbd\u0dca \u0d85\u0db1\u0dd4\u0dc0 \u0db4\u0dd2\u0dbb\u0dd3 \u0dba\u0db1 \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca 1s\u00b2 (2) + 2s\u00b22p\u2076 (8) + 3s\u00b23p\u2076 (8) \u0dbd\u0dd9\u0dc3 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076 \u0dc0\u0dda. \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dba \u0dc3\u0dc4 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0db8\u0dcf\u0dad\u0dd8\u0d9a\u0dcf TOC \u0dc4\u0dd2 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0dc0\u0dda [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q1",
+        "number": 1,
+        "type": "multiple_choice",
+        "question": "Which observed fact posed a major problem for the classical planetary model of the atom (electrons orbiting nucleus like planets)?",
+        "question_sinhala": "\u0db4\u0dcf\u0dbb\u0dca\u0dc1\u0dca\u0dc0\u0dd2\u0d9a (\u0db4\u0dd0\u0dc5\u0dd0\u0db1\u0da7\u0dd2) \u0db4\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dbb\u0dba\u0dda \u0d85\u0dab\u0dd4 \u0d86\u0daf\u0dbb\u0dca\u0dc1\u0dba (\u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dbd\u0dd2\u0dba\u0dc3\u0dca \u0db4\u0dc0\u0dd4\u0dbd\u0dd9\u0dc4\u0dd2 \u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dc0\u0dbb\u0dca\u0d9c \u0dbd\u0dd9\u0dc3 \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8) \u0dc3\u0db3\u0dc4\u0dcf \u0dc4\u0dda\u0dad\u0dd4 \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db0\u0dcf\u0db1 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0\u0d9a\u0dca \u0dc0\u0dd6 \u0db1\u0dd2\u0dbb\u0dd3\u0d9a\u0dca\u0dc2\u0dab\u0dba \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
+        "options": [
+          "Atoms emit light at only certain discrete wavelengths (line spectra).",
+          "Electrons move in fixed circular orbits with constant energy.",
+          "Atoms are electrically neutral overall.",
+          "Nuclei contain protons and neutrons."
+        ],
+        "options_sinhala": [
+          "\u0d85\u0dab\u0dd4 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd2\u0dad \u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0da7 \u0db4\u0db8\u0dab\u0d9a\u0dca \u0d91\u0dc5\u0dd2\u0dba \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2 (\u0dbb\u0dda\u0d9b\u0dcf \u0dc3\u0dca\u0db4\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0db8).",
+          "\u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0dca\u0dae\u0dd2\u0dbb \u0dc0\u0dd8\u0dad\u0dca\u0dad\u0dd3\u0dba \u0db4\u0dae\u0dc0\u0dbd\u0daf\u0dd3 \u0dc3\u0dca\u0dae\u0dd2\u0dbb \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dbb\u0dba\u0dd2.",
+          "\u0dc3\u0db8\u0dc3\u0dca\u0dad\u0dba\u0dd9\u0db1\u0dca\u0db8 \u0d85\u0dab\u0dd4 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db1\u0db4\u0dd4\u0dbb\u0dd4\u0dc0\u0d9a\u0dca \u0db1\u0dd0\u0dad.",
+          "\u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dbd\u0dd2\u0dba\u0dc3\u0dca \u0dad\u0dd4\u0dc5 \u0db4\u0dca\u200d\u0dbb\u0ddc\u0da7\u0ddd\u0db1 \u0dc3\u0dc4 \u0db1\u0dca\u200d\u0dba\u0dd6\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dad\u0dd2\u0db6\u0dda."
+        ],
+        "correct_answer": "Atoms emit light at only certain discrete wavelengths (line spectra).",
+        "correct_answer_sinhala": "\u0d85\u0dab\u0dd4 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dd2\u0dad \u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0da7 \u0db4\u0db8\u0dab\u0d9a\u0dca \u0d91\u0dc5\u0dd2\u0dba \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0dba\u0dd2 (\u0dbb\u0dda\u0d9b\u0dcf \u0dc3\u0dca\u0db4\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0db8).",
+        "explanation": "The classical planetary model could not explain why atoms emit only discrete line spectra rather than a continuous spectrum; this issue helped motivate quantum models of electron energy levels. The textbook TOC lists the 'planetary model of the atom' as a topic in the chapter (context for this concept) [Data: Sources (2); Entities (9)].",
+        "explanation_sinhala": "\u0db4\u0dcf\u0dbb\u0db8\u0dca\u0db4\u0dbb\u0dd2\u0d9a \u0db4\u0dd0\u0dc5\u0dd0\u0db1\u0da7\u0dd2 \u0d86\u0daf\u0dbb\u0dca\u0dc1\u0dba, \u0d85\u0dab\u0dd4 \u0dc3\u0dca\u0dae\u0dd2\u0dbb\u0dba\u0dd9\u0db1\u0dca \u0dbb\u0dda\u0d9b\u0dcf \u0dc3\u0dca\u0db4\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0db8 (\u0db1\u0dd2\u0dbb\u0dc0\u0daf\u0dca\u200d\u0dba \u0dbb\u0dda\u0d9b\u0dcf \u0dad\u0dbb\u0d82\u0d9c \u0daf\u0ddb\u0dbb\u0dca\u0d9d) \u0db4\u0db8\u0dab\u0d9a\u0dca \u0db1\u0dd2\u0d9a\u0dd4\u0dad\u0dca \u0d9a\u0dbb\u0db1 \u0db6\u0dc0 \u0dc3\u0dc4\u0dad\u0dd2\u0d9a \u0d9a\u0dbd \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd2\u0dba; \u0db8\u0dd9\u0db8 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4\u0dc0 \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1 \u0dc1\u0d9a\u0dca\u0dad\u0dd2 \u0db8\u0da7\u0dca\u0da7\u0db8\u0dca \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0d9a\u0dc5 \u0d9a\u0dc0\u0db1\u0dca\u0dad\u0db8\u0dca \u0d86\u0daf\u0dbb\u0dca\u0dc1\u0dba\u0db1\u0dca\u0da7 \u0db8\u0d9f \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0dcf \u0daf\u0dd4\u0db1\u0dca \u0d85\u0dad\u0dbb, \u0db8\u0dd9\u0db8 \u0db4\u200d\u0dca\u200d\u0dbb\u0d9a\u0dcf\u0dbb\u0dba '\u0db4\u0dbb\u0dca\u0dba\u0dcf\u0dba \u0d86\u0daf\u0dbb\u0dca\u0dc1\u0dba' \u0dbd\u0dd9\u0dc3 \u0d9a\u0ddc\u0da7\u0dc3\u0d9a\u0dca \u0dbd\u0dd9\u0dc3 \u0d9a\u0da9\u200d\u0daf\u0dda **TOC** \u0dc4\u0dd2 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0dc0\u0dda [Data: Sources (2); Entities (9)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q10",
+        "number": 10,
+        "type": "multiple_choice",
+        "question": "An element has two stable isotopes: A with mass 50.0 (abundance 60%) and B with mass 52.0 (abundance 40%). What is the average atomic mass of this element (to two decimal places)?",
+        "question_sinhala": "\u0d91\u0d9a\u0dca \u0db8\u0dd6\u0dbd\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0dba\u0d9a \u0dc3\u0dca\u0dae\u0dcf\u0dc0\u0dbb \u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0 \u0daf\u0dd9\u0d9a\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dda: A \u0db6\u0dbb 50.0 (\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca 60%) \u0dc3\u0dc4 B \u0db6\u0dbb 52.0 (\u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca 40%). \u0d91\u0db8 \u0db8\u0dd6\u0dbd\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0dba\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0d85\u0dab\u0dd4 \u0db6\u0dbb (average atomic mass) \u0daf\u0dc1\u0db8 \u0daf\u0dd9\u0d9a\u0dd9\u0db1\u0dca (two decimal places) \u0d9c\u0dab\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1.",
+        "options": [
+          "50.80",
+          "51.00",
+          "50.40",
+          "51.20"
+        ],
+        "options_sinhala": [
+          "50.80",
+          "51.00",
+          "50.40",
+          "51.20"
+        ],
+        "correct_answer": "50.80",
+        "correct_answer_sinhala": "50.80",
+        "explanation": "Average mass = (0.60 \u00d7 50.0) + (0.40 \u00d7 52.0) = 30.0 + 20.8 = 50.8 \u2192 50.80. Calculating average isotopic mass relates to the chapter topics 'isotopes' and 'modern periodic table' [Data: Sources (2)].",
+        "explanation_sinhala": "\u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db6\u0dbb = (0.60 \u00d7 50.0) + (0.40 \u00d7 52.0) = 30.0 + 20.8 = 50.8 \u2192 50.80. \u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0\u0dba\u0db1\u0dca\u0d9c\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0db6\u0dbb \u0d9c\u0dab\u0db1\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8 'isotopes' \u0dc3\u0dc4 'modern periodic table' \u0db8\u0dcf\u0dad\u0dd8\u0d9a\u0dcf\u0dc0\u0db1\u0dca\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dda [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q7",
+        "number": 7,
+        "type": "multiple_choice",
+        "question": "The molecular formula of glucose is C6H12O6. What is its empirical formula?",
+        "question_sinhala": "\u0d9c\u0dca\u0dbd\u0dd6\u0d9a\u0ddd\u0dc3\u0dca \u0d85\u0dab\u0dd4\u0d9c\u0dda \u0d85\u0dab\u0dd4\u0dc3\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba C6H12O6 \u0dc0\u0dda. \u0d91\u0dc4\u0dd2 \u0db1\u0dd2\u0dba\u0db8 (empirical) \u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
+        "options": [
+          "CH2O",
+          "C3H6O3",
+          "C6H12O6",
+          "CHO"
+        ],
+        "options_sinhala": [
+          "CH2O",
+          "C3H6O3",
+          "C6H12O6",
+          "CHO"
+        ],
+        "correct_answer": "CH2O",
+        "correct_answer_sinhala": "CH2O",
+        "explanation": "Empirical formula shows simplest whole-number ratio: divide subscripts by their greatest common divisor (6,12,6 \u2192 divide by 6) gives C1H2O1 or CH2O. Chemical formulae topics are listed in the chapter TOC (chemical formulae, structure of matter) [Data: Sources (2)].",
+        "explanation_sinhala": "\u0db1\u0dd2\u0dba\u0db8 \u0dc3\u0dd6\u0dad\u0dca\u200d\u0dbb\u0dba \u0dc3\u0dbb\u0dbd\u0db8 \u0db4\u0ddc\u0daf\u0dd4 \u0db4\u0dd6\u0dbb\u0dca\u0dab \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba\u0dba\u0dd2: C6H12O6 \u0dad\u0dd4\u0dc5\u0dd2\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0db8\u0dcf\u0dab 6 \u0daf\u0dc4\u0dc3\u0dca 6 \u0d85\u0d9c\u0dba\u0d9a\u0dca \u0daf\u0dd2\u0dc0\u0dad\u0dca\u0dc0\u0dd6 \u0dc0\u0dd2\u0da7 C1H2O1 \u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf CH2O \u0dc0\u0dda. 'Chemical formulae' \u0db8\u0dcf\u0dad\u0dd8\u0d9a\u0dcf\u0dc0 TOC \u0dc4\u0dd2 \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0dc0\u0dda [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q3",
+        "number": 3,
+        "type": "multiple_choice",
+        "question": "Across a period (left to right) in the modern periodic table, which trend is generally observed and why?",
+        "question_sinhala": "\u0dba\u0dd4\u0d9c\u0dba\u0d9a\u0dca \u0dc4\u0dbb\u0dc4\u0dcf (\u0dc0\u0db8\u0dd9\u0db1\u0dca \u0daf\u0d9a\u0dd4\u0dab\u0da7) \u0db1\u0dc0\u0dd3\u0db1 \u0dc3\u0db8\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0d9c\u0dd4\u0dc0\u0dda \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dd9\u0db1\u0dca \u0daf\u0dd0\u0d9a\u0d9c\u0dad \u0dc4\u0dd0\u0d9a\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dab\u0dad\u0dcf\u0dc0\u0dba \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf \u0dc3\u0dc4 \u0d91\u0d9c\u0dda \u0dc4\u0dda\u0dad\u0dd4\u0dc0 \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
+        "options": [
+          "Atomic radius decreases due to increasing effective nuclear charge pulling electrons closer.",
+          "Atomic radius increases due to addition of new electron shells each element.",
+          "Ionization energy decreases because outer electrons are held more tightly.",
+          "Metallic character increases because atoms gain electrons more readily."
+        ],
+        "options_sinhala": [
+          "\u0d9a\u0dab\u0dca\u0dab\u0dd2\u0d9a\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd2\u0dc2\u0dca\u0d9a\u0db8\u0dca\u0db7\u0dba \u0daf\u0dd2\u0d9c\u0dd4 \u0dc0\u0dda\u0d9c\u0dd9\u0db1\u0dca \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2; \u0d92 \u0db1\u0dd2\u0dc3\u0dcf \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0db4\u0dbd \u0d9a\u0dca\u0dc2\u0dda\u0db8 \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dbd\u0dd2\u0dba\u0dc3\u0dca \u0da0\u0dcf\u0dbb\u0dca\u0da2\u0dba \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0db8\u0dd3\u0db4\u0dc0 \u0d87\u0daf\u0d9c\u0db1\u0dd2\u0dad\u0dd2.",
+          "\u0d9a\u0dab\u0dca\u0dab\u0dd2\u0d9a\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd2\u0dc2\u0dca\u0d9a\u0db8\u0dca\u0db7\u0dba \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dda; \u0d91\u0db8\u0d9f\u0dd2\u0db1\u0dca \u0dc3\u0dd1\u0db8 \u0d85\u0d82\u0dc1\u0d9a\u0dba\u0d9a\u0da7\u0db8 \u0db1\u0dc0 \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1 \u0dc1\u0dd9\u0dbd\u0dca \u0d91\u0d9a\u0dad\u0dd4 \u0dc0\u0dda.",
+          "\u0d85\u0dba\u0db1\u0db1\u0dba \u0dc1\u0d9a\u0dca\u0dad\u0dd2\u0dba \u0d85\u0da9\u0dd4\u0dc0\u0dda; \u0db6\u0dcf\u0dc4\u0dd2\u0dbb \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dad\u0dc0\u0daf\u0dd4\u0dbb\u0da7\u0dad\u0dca \u0dad\u0daf\u0dd2\u0db1\u0dca \u0dbb\u0db3\u0dcf \u0db1\u0ddc\u0d9c\u0db1\u0dd3.",
+          "\u0dbd\u0ddd\u0dc4\u0dd3\u0dba \u0da0\u0dbb\u0dd2\u0dad\u0dba \u0dc0\u0dbb\u0dca\u0db0\u0db1\u0dba \u0dc0\u0dda; \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dbd\u0dd2\u0dba\u0dc3\u0dca \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0db1\u0dcf\u0dae \u0dc0\u0dc1\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0db6\u0dcf \u0d9c\u0db1\u0dd3\u0db8\u0da7 \u0db4\u0dc4\u0dc3\u0dd4 \u0dc0\u0dda."
+        ],
+        "correct_answer": "Atomic radius decreases due to increasing effective nuclear charge pulling electrons closer.",
+        "correct_answer_sinhala": "\u0d9a\u0dab\u0dca\u0dab\u0dd2\u0d9a\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd2\u0dc2\u0dca\u0d9a\u0db8\u0dca\u0db7\u0dba \u0d85\u0da9\u0dd4\u0dc0\u0dd9\u0dba\u0dd2; \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dbd\u0dd2\u0dba\u0dc3\u0dca \u0da0\u0dcf\u0dbb\u0dca\u0da2\u0dba \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0db8\u0dd3\u0db4\u0dc0 \u0d87\u0daf\u0d9c\u0db1\u0dd2\u0dad\u0dd2.",
+        "explanation": "Moving left to right across a period adds protons (higher nuclear charge) while electrons enter the same shell; greater effective nuclear charge pulls the electron cloud inwards, reducing atomic radius. This is a standard periodic trend related to 'modern periodic table' topics in the chapter TOC [Data: Sources (2)].",
+        "explanation_sinhala": "\u0dba\u0dd4\u0d9c\u0dba \u0dc4\u0dbb\u0dc4\u0dcf \u0dc0\u0db8\u0dd9\u0db1\u0dca \u0daf\u0d9a\u0dd4\u0dab\u0da7 \u0d9c\u0db8\u0db1\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0dda\u0daf\u0dd3 \u0db4\u0dca\u200d\u0dbb\u0ddc\u0da7\u0ddd\u0db1 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0dc0\u0dd0\u0da9\u0dd2 \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0db1\u0dc0 \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1 \u0d91\u0db8 \u0d91\u0d9a\u0db8 \u0dc1\u0dd9\u0dbd\u0dca\u0da7 \u0d87\u0dad\u0dd4\u0dc5\u0dd4 \u0dc0\u0dda; \u0dc0\u0dd0\u0da9\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0d9a\u0dca\u0dc2\u0dda\u0db4 \u0db1\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dbd\u0dd2\u0dba\u0dc3\u0dca \u0da0\u0dcf\u0dbb\u0dca\u0da2\u0dba \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0db8\u0ddc\u0dc5\u0dc0\u0dd9\u0dad \u0d85\u0daf\u0dd2\u0db1\u0dca\u0db1\u0dcf \u0db6\u0dd0\u0dc0\u0dd2\u0db1\u0dca \u0d9a\u0dab\u0dca\u0dab\u0dd2\u0d9a\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0dc0\u0dd2\u0dc2\u0dca\u0d9a\u0db8\u0dca\u0db7\u0dba \u0d85\u0da9\u0dd4\u0dc0\u0dda. \u0db8\u0dd9\u0dba '\u0db1\u0dc0\u0dd3\u0db1 \u0dc3\u0db8\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0d9c\u0dd4\u0dc0' \u0db8\u0dcf\u0dad\u0dd8\u0d9a\u0dcf\u0dc0\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dba\u0dd2 [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q8",
+        "number": 8,
+        "type": "multiple_choice",
+        "question": "An element has the electron configuration [Ar] 4s\u00b2 3d\u2075. Identify the element and its atomic number.",
+        "question_sinhala": "[Ar] 4s\u00b2 3d\u2075 \u0dba\u0db1 \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dba \u0d87\u0dad\u0dd2 \u0db8\u0dd6\u0dbd\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0dba \u0dc4\u0db3\u0dd4\u0db1\u0dcf \u0d9a\u0dbb \u0d91\u0dc4\u0dd2 \u0d85\u0dab\u0dd4 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 (atomic number) \u0dc3\u0db3\u0dc4\u0db1\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1.",
+        "options": [
+          "Manganese, Z = 25",
+          "Iron, Z = 26",
+          "Chromium, Z = 24",
+          "Vanadium, Z = 23"
+        ],
+        "options_sinhala": [
+          "\u0db8\u0dd0\u0d82\u0d9c\u0db1\u0dd2\u0dc3\u0dca (Manganese), Z = 25",
+          "\u0dbd\u0ddd\u0dc4 (Iron), Z = 26",
+          "\u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db8\u0dd2\u0dba\u0db8\u0dca (Chromium), Z = 24",
+          "\u0dc0\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0db8\u0dca (Vanadium), Z = 23"
+        ],
+        "correct_answer": "Manganese, Z = 25",
+        "correct_answer_sinhala": "\u0db8\u0dd0\u0d82\u0d9c\u0db1\u0dd2\u0dc3\u0dca (Manganese), Z = 25",
+        "explanation": "Configuration [Ar]4s\u00b23d\u2075 corresponds to manganese (Mn), which has 25 electrons/protons (atomic number 25). Knowing electronic configuration helps place elements in the modern periodic table (electronic configuration, periodic patterns) [Data: Sources (2)].",
+        "explanation_sinhala": "[Ar]4s\u00b23d\u2075 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dba \u0db8\u0dd0\u0d82\u0d9c\u0db1\u0dd2\u0dc3\u0dca (Mn) \u0dc3\u0db3\u0dc4\u0dcf \u0dc0\u0db1 \u0d85\u0dad\u0dbb \u0d91\u0dc4\u0dd2 \u0d85\u0dab\u0dd4 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 25 \u0d9a\u0dca \u0dc0\u0dda. \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dcf\u0dc0\u0db1\u0dca \u0d87\u0dad\u0dca\u0dad\u0dad\u0dca \u0dc3\u0db8\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0d9c\u0dd4\u0dc0\u0dda \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc0\u0dda [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q9",
+        "number": 9,
+        "type": "multiple_choice",
+        "question": "Which element is most likely to form a stable +2 cation under normal conditions?",
+        "question_sinhala": "\u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0dad\u0dad\u0dca\u0dad\u0dca\u0dc0\u0dba\u0db1\u0dca \u0dba\u0da7\u0dad\u0dda \u0dc3\u0dca\u0dae\u0dd2\u0dbb +2 \u0db0\u0db1\u0dd2\u0dad\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d85\u0dba\u0db1\u0dba\u0d9a\u0dca (+2 cation) \u0dc3\u0dcf\u0daf\u0db1\u0dca\u0db1\u0dcf \u0dc0\u0dd6\u0dc0\u0dcf\u0dc0\u0d9a\u0dca \u0dc0\u0da7\u0dd2\u0db1\u0dcf \u0db8\u0dd6\u0dbd\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
+        "options": [
+          "Calcium (Ca)",
+          "Chlorine (Cl)",
+          "Aluminium (Al)",
+          "Sulfur (S)"
+        ],
+        "options_sinhala": [
+          "\u0d9a\u0dd0\u0dbd\u0dca\u0dc3\u0dd2\u0dba\u0db8\u0dca (Calcium - Ca)",
+          "\u0d9a\u0dca\u0dbd\u0ddd\u0dbb\u0dd2\u0db1\u0dca (Chlorine - Cl)",
+          "\u0d87\u0dbd\u0dd2\u0dba\u0dd4\u0db8\u0dd2\u0db1\u0dd2\u0dba\u0db8\u0dca (Aluminium - Al)",
+          "\u0d9c\u0db1\u0dca\u0db0\u0d9a (Sulfur - S)"
+        ],
+        "correct_answer": "Calcium (Ca)",
+        "correct_answer_sinhala": "\u0d9a\u0dd0\u0dbd\u0dca\u0dc3\u0dd2\u0dba\u0db8\u0dca (Calcium - Ca)",
+        "explanation": "Group 2 elements (alkaline earth metals) typically lose two electrons to form stable +2 cations; calcium (Ca) is a common +2 cation. This applies electronic configuration and periodic group behaviour (modern periodic table, metals) [Data: Sources (2)].",
+        "explanation_sinhala": "\u0d9a\u0dcf\u0dab\u0dca\u0da9 2 \u0dc4\u0dd2 \u0d85\u0d82\u0dc1\u0d9a (alkaline earth metals) \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dd9\u0db1\u0dca \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 2\u0d9a\u0dca \u0d85\u0dc4\u0dd2\u0db8\u0dd2 \u0d9a\u0dbb +2 \u0db0\u0db1\u0dd2\u0dad\u0dcf\u0dad\u0dca\u0db8\u0d9a \u0d85\u0dba\u0db1\u0dba\u0d9a\u0dca \u0dc3\u0dcf\u0daf\u0dcf \u0dc3\u0dbb\u0dca\u0dc0\u0dc3\u0dcf\u0db0\u0dcf\u0dbb\u0dab \u0dbd\u0dd9\u0dc3 \u0dc3\u0dca\u0dae\u0dd3\u0dbb\u0dc0 \u0dc3\u0dd2\u0da7\u0dd2\u0dad\u0dd2; \u0d9a\u0dd0\u0dbd\u0dca\u0dc3\u0dd2\u0dba\u0db8\u0dca (Ca) \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba +2 \u0d85\u0dba\u0db1\u0dba\u0d9a\u0dca \u0daf\u0d9a\u0dca\u0dc0\u0dba\u0dd2. \u0db8\u0dd9\u0dba \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddc\u0db1 \u0dc3\u0d82\u0dbb\u0da0\u0db1\u0dcf\u0dc0 \u0dc3\u0dc4 \u0dc3\u0db8\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0d9c\u0dd4\u0dc0\u0dda \u0d9a\u0dcf\u0dab\u0dca\u0da9 \u0dc4\u0dd0\u0dc3\u0dd2\u0dbb\u0dd3\u0db8\u0dca \u0dc0\u0dbd\u0da7 \u0d85\u0daf\u0dcf\u0dbd \u0dc0\u0dda [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q6",
+        "number": 6,
+        "type": "multiple_choice",
+        "question": "Which of the following sets of properties best describes a typical metal compared with a non-metal?",
+        "question_sinhala": "\u0db4\u0dc4\u0dbd \u0d87\u0dad\u0dd2 \u0dc0\u0dd2\u0d9a\u0dbd\u0dca\u0db4 \u0dc0\u0dbd\u0dd2\u0db1\u0dca \u0d9a\u0dd4\u0db8\u0db1 \u0d91\u0d9a\u0d9a\u0dca \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dd9\u0db1\u0dca \u0dbd\u0ddd\u0dc4\u0dba\u0d9a (metal) \u0dc3\u0dc4 \u0d85\u0dbd\u0ddd\u0dc4\u0dba\u0d9a (non-metal) \u0d85\u0dad\u0dbb \u0dc0\u0dd9\u0db1\u0dc3 \u0dc4\u0ddc\u0db3\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc3\u0dca\u0dad\u0dbb \u0d9a\u0dbb\u0dba\u0dd2\u0daf?",
+        "options": [
+          "Malleable, lustrous, good electrical conductor \u2014 whereas non-metals are brittle, dull, poor conductors.",
+          "Brittle, dull, poor electrical conductor \u2014 whereas non-metals are malleable and lustrous.",
+          "Gaseous at room temperature \u2014 whereas non-metals are always solids.",
+          "Always form basic oxides \u2014 whereas non-metals form strongly basic compounds."
+        ],
+        "options_sinhala": [
+          "\u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd2\u0dba\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2 (malleable), \u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca (lustrous), \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7 \u0dc4\u0ddc\u0db3 \u2014 \u0d85\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0ddd\u0dc4 \u0dc0\u0dc3\u0dca\u0dad\u0dd4 \u0d9a\u0dcf\u0da7\u0dd4\u0d9a, \u0db1\u0dd3\u0dc4\u0dcf\u0dbb, \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0d85\u0da9\u0dd4 \u0dc0\u0dda.",
+          "\u0d9a\u0dcf\u0da7\u0dd4\u0d9a, \u0db1\u0dd3\u0dc4\u0dcf\u0dbb, \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0d85\u0da9\u0dd4 \u2014 \u0d85\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0ddd\u0dc4 \u0dc0\u0dc3\u0dca\u0dad\u0dd4 \u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2 \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0dc3\u0dc4 \u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc0\u0dda.",
+          "\u0d9a\u0dcf\u0db8\u0dbb \u0d8b\u0dc2\u0dca\u0dab\u0dad\u0dca\u0dc0\u0dba\u0dda \u0dc0\u0dcf\u0dba\u0dd4\u0d9a \u2014 \u0d85\u0db1\u0dd9\u0d9a\u0dca \u0d85\u0dbd\u0ddd\u0dc4 \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7\u0db8 \u0dad\u0dd4\u0da9\u0dd2\u0dba\u0db1\u0dca \u0dc0\u0db1\u0dd4 \u0d87\u0dad.",
+          "\u0dc3\u0dd1\u0db8 \u0dc0\u0dd2\u0da7\u0db8 \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0d86\u0d9a\u0dca\u0dc3\u0dd2\u0da9\u0dca (basic oxides) \u0dc3\u0dd1\u0daf\u0dd6\u0dba \u2014 \u0d85\u0dbd\u0ddd\u0dc4 \u0daf\u0dd0\u0dbd\u0dca \u0daf\u0dd0\u0da9\u0dd2 \u0db8\u0dd6\u0dbd\u0dd2\u0d9a \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc4\u0dcf \u0dc3\u0db8\u0dcf\u0db1."
+        ],
+        "correct_answer": "Malleable, lustrous, good electrical conductor \u2014 whereas non-metals are brittle, dull, poor conductors.",
+        "correct_answer_sinhala": "\u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd2\u0dba\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2, \u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca, \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dd4\u0dad\u0dca \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7 \u0dc4\u0ddc\u0db3 \u2014 \u0d85\u0dbd\u0ddd\u0dc4 \u0d9a\u0dcf\u0da7\u0dd4\u0d9a, \u0db1\u0dd3\u0dc4\u0dcf\u0dbb, \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0d85\u0da9\u0dd4 \u0dc0\u0dda.",
+        "explanation": "Typical metals are malleable, have metallic luster and conduct electricity; non-metals tend to be brittle (if solid), lack luster and are poor conductors. The chapter lists 'metals, non metals and metalloids' as a topic [Data: Sources (2)].",
+        "explanation_sinhala": "\u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba \u0dbd\u0ddd\u0dc4 \u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc0\u0dd2\u0d9a\u0dd8\u0dad\u0dd2 \u0d9a\u0dd2\u0dbb\u0dd2\u0dba\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2, \u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc3\u0dc4 \u0dc0\u0dd2\u0daf\u0dd4\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0db1\u0dba\u0da7 \u0dc3\u0dd4\u0daf\u0dd4\u0dc3\u0dd4 \u0dc0\u0dda; \u0d85\u0dbd\u0ddd\u0dc4 (non-metals) \u0dc3\u0dcf\u0db8\u0dcf\u0db1\u0dca\u200d\u0dba\u0dba\u0dd9\u0db1\u0dca (\u0dc1\u0dd3\u0d9d\u0dca\u200d\u0dbb) \u0d9a\u0dcf\u0da7\u0dd4\u0d9a, \u0db1\u0ddc\u0daf\u0dd3\u0db4\u0dca\u0dad\u0dd2\u0db8\u0dad\u0dca \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dc0\u0dcf\u0dc4\u0d9a\u0dad\u0dca\u0dc0\u0dba \u0d85\u0da9\u0dd4 \u0dc0\u0dda. \u0db8\u0dd9\u0db8 \u0d9c\u0dd0\u0da7\u0dbd\u0dd4 'metals, non metals and metalloids' \u0db8\u0dcf\u0dad\u0dd8\u0d9a\u0dcf\u0dc0\u0da7 \u0d85\u0daf\u0dcf\u0dc5 \u0dc0\u0dda [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      },
+      {
+        "id": "q4",
+        "number": 4,
+        "type": "multiple_choice",
+        "question": "Which statement correctly distinguishes isotopes of the same element?",
+        "question_sinhala": "\u0d91\u0d9a\u0dca\u0db8 \u0db8\u0dd6\u0dbd\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba\u0dba\u0dda \u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0 (isotopes) \u0dc0 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0d9a\u0dbb\u0db1\u0dc0 \u0daf \u0db8\u0dcf\u0dad\u0dd8\u0d9a\u0dcf\u0dc0\u0d9a\u0da7 \u0dc4\u0dbb\u0dd2 \u0dc0\u0dd2\u0dc3\u0dca\u0dad\u0dbb \u0d9a\u0dd4\u0db8\u0d9a\u0dca\u0daf?",
+        "options": [
+          "Isotopes have the same number of protons but different numbers of neutrons.",
+          "Isotopes have different numbers of protons and the same number of neutrons.",
+          "Isotopes have different numbers of electrons but identical masses.",
+          "Isotopes are elements in different groups of the periodic table."
+        ],
+        "options_sinhala": [
+          "\u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0 \u0dc0\u0dbd\u0da7 \u0d92\u0d9a\u0db8 \u0db4\u0dca\u200d\u0dbb\u0ddc\u0da7\u0ddd\u0db1 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dda \u0db1\u0db8\u0dd4\u0dad\u0dca \u0db1\u0dca\u200d\u0dba\u0dd6\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dda.",
+          "\u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0 \u0dc0\u0dbd \u0db4\u0dca\u200d\u0dbb\u0ddc\u0da7\u0ddd\u0db1 \u0d9c\u0dab\u0db1 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0 \u0d85\u0dad\u0dbb \u0db1\u0dca\u200d\u0dba\u0dd6\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0d9c\u0dab\u0db1 \u0d91\u0d9a\u0dd2\u0db1\u0dd9\u0d9a\u0dba\u0dd2.",
+          "\u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0 \u0dc0\u0dbd \u0d89\u0dbd\u0dd9\u0d9a\u0dca\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0d9c\u0dab\u0db1 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0 \u0db1\u0db8\u0dd4\u0dad\u0dca \u0db6\u0dbb \u0dc3\u0db8\u0dcf\u0db1 \u0dc0\u0dda.",
+          "\u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0 \u0dc0\u0db1\u0dca\u0db1\u0dda \u0dc3\u0db8\u0d9a\u0dcf\u0dbd\u0dd3\u0db1 \u0dc0\u0d9c\u0dd4\u0dc0\u0dda \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0d9a\u0dcf\u0dab\u0dca\u0da9 \u0dc0\u0dbd \u0d87\u0dad\u0dd2 \u0db8\u0dd6\u0dbd\u0daf\u0dca\u200d\u0dbb\u0dc0\u0dca\u200d\u0dba \u0dc0\u0dda."
+        ],
+        "correct_answer": "Isotopes have the same number of protons but different numbers of neutrons.",
+        "correct_answer_sinhala": "\u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0 \u0dc0\u0dbd\u0da7 \u0d92\u0d9a\u0db8 \u0db4\u0dca\u200d\u0dbb\u0ddc\u0da7\u0ddd\u0db1 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0\u0d9a\u0dca \u0dad\u0dd2\u0db6\u0dda \u0db1\u0db8\u0dd4\u0dad\u0dca \u0db1\u0dca\u200d\u0dba\u0dd6\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dda.",
+        "explanation": "Isotopes are defined by identical atomic number (proton count) but differing mass numbers because of neutron differences; this concept aligns with the chapter's listing (isotopes, modern periodic table) [Data: Sources (2)].",
+        "explanation_sinhala": "\u0d85\u0db1\u0dd4\u0db4\u0dca\u200d\u0dbb\u0db7\u0dc0 (isotopes)\u0dc0\u0dbd\u0da7 \u0d92\u0d9a\u0db8 \u0d85\u0dab\u0dd4 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 (\u0db4\u0dca\u200d\u0dbb\u0ddc\u0da7\u0ddd\u0db1 \u0d9c\u0dab\u0db1) \u0dad\u0dd2\u0db6\u0dda; \u0db1\u0db8\u0dd4\u0dad\u0dca \u0db1\u0dca\u200d\u0dba\u0dd6\u0da7\u0dca\u200d\u0dbb\u0ddd\u0db1 \u0dc3\u0d82\u0d9b\u0dca\u200d\u0dba\u0dcf\u0dc0 \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dd3\u0db8 \u0db1\u0dd2\u0dc3\u0dcf \u0db6\u0dbb \u0d85\u0d82\u0d9a \u0dc0\u0dd9\u0db1\u0dc3\u0dca \u0dc0\u0dda. \u0db8\u0dd9\u0db8 \u0d85\u0daf\u0dc4\u0dc3 'isotopes' \u0dc3\u0dc4 'modern periodic table' \u0db8\u0dcf\u0dad\u0dd8\u0d9a\u0dcf \u0dc3\u0db8\u0d9f \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0 \u0dc0\u0dda [Data: Sources (2)].",
+        "difficulty": "Medium",
+        "points": 1
+      }
+    ],
+    "selectedSections": [],
+    "source": {
+      "id": "course-7953136076d96ddc",
+      "title": "Course 003"
+    },
+    "sourceId": "course-7953136076d96ddc",
+    "sourceType": "course",
+    "status": "ready",
+    "title": "Test - Course 003",
+    "type": "test"
+  }
+]

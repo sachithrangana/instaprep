@@ -1,0 +1,11 @@
+graphrag==3.0.1
+pandas
+flask[async]
+flask-cors
+boto3
+pymongo
+dotenv
+mangum
+gunicorn
+python-dotenv
+googletrans

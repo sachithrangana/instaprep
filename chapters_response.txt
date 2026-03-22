@@ -1,0 +1,363 @@
+Below is a structured extraction of the book hierarchy (chapters → sections → objectives/descriptions) based only on the provided excerpts. Where the excerpts include content for a chapter or section I put a short summary and cited the supporting source record ids. Where no descriptive content or explicit learning objectives were present in the supplied excerpts I state that the information is not available in the provided data.
+
+JSON output (book → chapters → sections). Each summary or description supported by the supplied excerpts includes a Data reference in the string.
+
+```json
+{
+  "book": {
+    "title": "Science Grade 10 (Part I)",
+    "notes": "Hierarchy and summaries extracted only from the provided excerpts. If a chapter/section has no description or objectives in the supplied excerpts, that field states that the information is not available.",
+    "book_level_objectives": [
+      "Develop knowledge, skills and attitudes needed for scientific thought; promote active, activity-based learning and higher order skills (comprehension, application, analysis, synthesis, evaluation) [Data: Sources (1, 0, 2, 3)].",
+      "Each chapter includes summaries, activities, exercises and 'For extra knowledge' material to broaden study and support self-evaluation [Data: Sources (1)]."
+    ],
+    "chapters": [
+      {
+        "title": "Chapter 1 — Chemical Basis of Life (Carbohydrates, Proteins, Lipids, Nucleic acids, Water, Minerals, Vitamins)",
+        "summary": "Introduces main biomolecules (carbohydrates, proteins, lipids, nucleic acids) and important inorganic components (water, minerals, vitamins). Discusses composition, classification (e.g., monosaccharides, disaccharides, polysaccharides), tests for carbohydrates, roles and significance of water, minerals and vitamins, and deficiency symptoms for minerals and vitamins where present in excerpts [Data: Sources (38, 4, 3)].",
+        "sections": [
+          {
+            "title": "1.1 Carbohydrates",
+            "description": "Defines carbohydrates, describes monosaccharides/disaccharides/polysaccharides, gives examples (glucose, fructose, galactose; maltose, sucrose, lactose; starch, cellulose, glycogen), shows chemical relationships (hydrolysis/condensation) and lists tests (iodine for starch; Benedict's for glucose) [Data: Sources (4, 3)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. Excerpted material focuses on definitions, types, examples and laboratory tests for carbohydrates [Data: Sources (4)]."
+            ]
+          },
+          {
+            "title": "1.2 Proteins",
+            "description": "Explains that proteins are polymers of amino acids containing C, H, O, N (sometimes S); shows structure of a typical amino acid; notes that 20 amino acids are standard building blocks and proteins are essential constituents of cells [Data: Sources (4)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. Excerpted material describes composition and basic structure of proteins and amino acids [Data: Sources (4)]."
+            ]
+          },
+          {
+            "title": "1.3 Lipids",
+            "description": "Section title present in contents but no detailed description found in the provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "1.4 Nucleic acids",
+            "description": "Section title present in contents but no detailed description found in the provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "1.5 Water",
+            "description": "Describes properties of water important for life: good solvent, medium for biochemical reactions, main component of extracellular fluids, coolant (high specific heat), cohesion and adhesion aiding transport, ice floats protecting aquatic life; lists significance of water for organisms [Data: Sources (4)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. The excerpt provides properties and biological significance of water [Data: Sources (4)]."
+            ]
+          },
+          {
+            "title": "1.6 Minerals",
+            "description": "Explains minerals as macro and trace elements with approximate contribution to body mass; lists roles and deficiency symptoms for several elements (e.g., K, Na, Mg, Ca, P, Fe, I) and discusses functions/deficiencies in plants (N, P, K, Fe, Ca, Zn, S) with illustrative deficiency symptoms [Data: Sources (4)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. The excerpt gives roles and deficiency symptoms for minerals in animals and plants [Data: Sources (4)]."
+            ]
+          },
+          {
+            "title": "1.7 Vitamins",
+            "description": "Lists vitamins grouped by solubility (water-soluble B and C; fat-soluble A, D, E, K) and notes their roles and deficiency consequences (examples present in the excerpt) [Data: Sources (4)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chapter 2 — Motion in a Straight Line",
+        "summary": "Chapter and section titles (distance & displacement, speed, velocity, acceleration, displacement/time graphs, velocity/time graphs, gravitational acceleration) are listed in the table of contents, but detailed descriptive content for this chapter was not found in the provided excerpts [Data: Sources (38)].",
+        "sections": [
+          { "title": "2.1 Distance and displacement", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "2.2 Speed", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "2.3 Velocity", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "2.4 Acceleration", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "2.5 Displacement - Time graphs", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "2.6 Velocity - Time graphs", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "2.7 Gravitational acceleration", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] }
+        ]
+      },
+      {
+        "title": "Chapter 3 — Structure of Matter",
+        "summary": "TOC lists sections on planetary model of atom, electronic configuration, periodic table, isotopes, periodic patterns, metals/non-metals/metalloids and chemical formulae. Detailed exposition for these sections is not present in the supplied excerpts except the section titles in the TOC [Data: Sources (38)].",
+        "sections": [
+          { "title": "3.1 The planetary model of the atom", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "3.2 Electronic configuration", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "3.3 Modern periodic table", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "3.4 Isotopes", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "3.5 Patterns seen in the periodic table", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "3.6 Metals, non metals and metalloids", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "3.7 Chemical formulae", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] }
+        ]
+      },
+      {
+        "title": "Chapter 4 — Nature of Force and Its Effects",
+        "summary": "TOC lists sections on the nature of force, momentum, mass and weight. Detailed descriptive content for these sections was not found in the provided excerpts [Data: Sources (38)].",
+        "sections": [
+          { "title": "4.1 Nature of force and its effects", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "4.2 Momentum", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "4.3 Mass and weight", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] }
+        ]
+      },
+      {
+        "title": "Chapter 5 — Friction",
+        "summary": "The supplied excerpts include a chapter summary that defines friction, distinguishes static/limiting/dynamic friction, and lists dependencies (nature of contact surfaces and normal reaction) and practical notes (limiting friction does not depend on contact area). Technical terms are also listed [Data: Sources (38)].",
+        "sections": [
+          {
+            "title": "5.1 Nature of friction",
+            "description": "Friction is the force that resists relative motion between contacting bodies; friction acts to stop or oppose motion and is present whenever one body moves or tends to move relative to another [Data: Sources (38)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. The chapter summary gives core concepts and definitions of frictional types and dependencies [Data: Sources (38)]."
+            ]
+          },
+          {
+            "title": "5.2 Static, limiting and dynamic states of frictional forces",
+            "description": "Static friction acts before motion begins and varies with the applied external force; limiting friction is the maximum static friction (depends on surface nature and normal reaction but not contact area); dynamic (kinetic) friction acts when bodies move relative to each other [Data: Sources (38)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. The chapter summary enumerates definitions and distinguishing points for these frictional states [Data: Sources (38)]."
+            ]
+          },
+          {
+            "title": "5.3 Factors affecting the limiting frictional force",
+            "description": "The excerpt lists dependence on the nature of contact surfaces and normal reaction; contact area does not affect limiting friction according to the chapter summary [Data: Sources (38)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts."
+            ]
+          },
+          {
+            "title": "5.4 Practical applications of friction",
+            "description": "The TOC and summary indicate there are practical application notes in the chapter, but specific applications are not detailed in the supplied excerpts [Data: Sources (38)].",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "Technical terms (Friction chapter)",
+            "description": "List of technical terms provided in the excerpt: Friction, Static friction, Limiting friction, Dynamic friction, Weight, Normal Reaction [Data: Sources (38)].",
+            "objectives": []
+          }
+        ]
+      },
+      {
+        "title": "Chapter 6 — Structure and Functions of the Plant and Animal Cell",
+        "summary": "The provided excerpts contain substantive material on cell theory, the concept of the cell, structure of plant and animal cells (cell membrane, cell wall, nucleus, cytoplasm, vacuole), differences between plant and animal cells, organelles and the organisational levels (cell → tissue → organ → system → organism), and classroom/lab activities (cheek cell and onion peel observations). Robert Hooke and the historical development of cell theory are mentioned [Data: Sources (7, 38)].",
+        "sections": [
+          {
+            "title": "6.1 Basic unit of life",
+            "description": "States the cell is the structural and functional unit of life; includes historical note (Robert Hooke) and the cell theory contents: structural/functional unit, organisms made of one or more cells, and new cells arise from pre-existing cells [Data: Sources (7)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. The excerpt presents the central tenets of cell theory and historical context [Data: Sources (7)]."
+            ]
+          },
+          {
+            "title": "6.2 Concept of the cell",
+            "description": "Describes unicellular vs multicellular organisms, examples of cell functions (e.g., red blood cells transport O2, neurons transmit impulses), and notes that cells differ in shape/size/function and are mostly microscopic [Data: Sources (7)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts."
+            ]
+          },
+          {
+            "title": "6.3 Structure of cells",
+            "description": "Contains practical activities for observing cheek cells and onion epidermis; describes appearance through light microscope and introduces the idea of organelles as small structures performing functions; depicts typical plant vs animal cell features (cell wall, plasma membrane, nucleus, vacuole) and notes many organelles require electron microscopy [Data: Sources (7)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. Activities are provided to observe and identify cells and organelles [Data: Sources (7)]."
+            ]
+          },
+          {
+            "title": "6.4 Cell organelles and structures present in a cell",
+            "description": "Section title is in TOC and organelles are referenced in the text; specifics beyond those in 'structure of cells' (e.g., individual organelle functions) are not fully present in the provided excerpts [Data: Sources (7)].",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "6.5 Cell growth and cell division",
+            "description": "Section listed in TOC; detailed text for growth and division is not in the provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chapter 7 — Quantification of Elements and Compounds",
+        "summary": "TOC lists relative atomic mass, relative molecular mass, Avogadro constant, and mole. The provided excerpts include definitions/terms such as Avogadro constant, mole, relative atomic/molecular mass and sample mole problems (fragmentary) [Data: Sources (48, 38)].",
+        "sections": [
+          {
+            "title": "7.1 Relative atomic mass (Ar)",
+            "description": "Section title present in TOC; specific descriptive content for Ar is not present in the supplied excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "7.2 Relative molecular mass (Mr)",
+            "description": "Section title present in TOC; specific descriptive content for Mr is not present in the supplied excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "7.3 Avogadro constant",
+            "description": "The provided excerpt lists the Avogadro constant and related technical terms (Avogadro constant, mole, molar mass) indicating focus on quantification of substances; examples of mole-counting questions appear fragmentarily [Data: Sources (48)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. The excerpt provides terms and sample question fragments related to moles and quantification [Data: Sources (48)]."
+            ]
+          },
+          {
+            "title": "7.4 Mole",
+            "description": "Section title present in TOC and terms relating to mole are present in excerpts; detailed explanatory text beyond the listed terms is not included in the provided excerpts [Data: Sources (48, 38)].",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chapter 8 — Characteristics of Organisms",
+        "summary": "TOC and provided excerpts include an introduction to living characteristics and a detailed section on cellular organization with examples of unicellular organisms, tissue/organ/system levels, nutrition and additional sections (respiration, irritability/coordination, excretion, movement, reproduction, growth & development). The excerpt includes assignments and activities for distinguishing living/non-living and lists common characteristics (cellular organisation, nutrition, respiration, irritability & coordination, excretion, movement, reproduction, growth & development) and detailed material for cellular organization (unicellular examples and multicellular organisation) [Data: Sources (48)].",
+        "sections": [
+          {
+            "title": "8.1 Cellular organization",
+            "description": "Explains unicellular structure (cytoplasm and organelles within plasma membrane), examples observed in pond/hay extracts (Chlamydomonas, Euglena, Amoeba, Paramecium), and multicellular organisation from zygote to tissues/organs/systems (figures and activities included). Presents organisational levels (cell → tissue → organ → system → organism) with blood circulatory system as example [Data: Sources (48)].",
+            "objectives": [
+              "Not explicitly listed in the provided excerpts. The excerpt provides activities and examples to observe unicellular organisms and prepared slides and to understand organisational levels [Data: Sources (48)]."
+            ]
+          },
+          {
+            "title": "8.2 Nutrition",
+            "description": "Section listed in TOC and present in excerpt headings; detailed content for nutrition beyond mention in TOC is not included in the supplied excerpt fragments (other nutrition content not fully available) [Data: Sources (48)].",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "8.3 Respiration",
+            "description": "Section title present in TOC; detailed description not found in provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "8.4 Irritability and Co-ordination",
+            "description": "Section title present in TOC; detailed description not found in provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "8.5 Excretion",
+            "description": "Section title present in TOC; detailed description not found in provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "8.6 Movement",
+            "description": "Section title present in TOC; detailed description not found in provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "8.7 Reproduction",
+            "description": "Section title present in TOC; detailed description not found in provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "8.8 Growth and Development",
+            "description": "Section title present in TOC; detailed description not found in provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chapter 9 — Resultant Force",
+        "summary": "TOC lists topics (resultant of several forces; resultant of two collinear, two parallel, two inclined forces). No detailed explanations or learning objectives for these sections were included in the provided excerpts [Data: Sources (38)].",
+        "sections": [
+          { "title": "9.1 The resultant of several forces", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "9.2 Resultant of two collinear forces", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "9.3 Resultant of two parallel forces", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "9.4 Resultant of two inclined forces", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] }
+        ]
+      },
+      {
+        "title": "Chapter 10 — Chemical Bonds",
+        "summary": "TOC lists ionic bonds, covalent bonds, bond polarity, intermolecular bonds and properties of ionic/covalent compounds. The provided excerpts include a detailed section on covalent bonds: formation of common covalent molecules (H2, H2O, NH3, CH4, HCl, CCl4, O2, N2), Lewis dot/cross and Lewis structures, and classroom activity suggestions for modelling covalent bonds [Data: Sources (58, 38)].",
+        "sections": [
+          {
+            "title": "10.1 Ionic bonds",
+            "description": "Section title present in TOC, but detailed text for ionic bonds is not present in the supplied excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "10.2 Covalent bonds",
+            "description": "Detailed description present: explains sharing of electron pairs to form single/double/triple covalent bonds; gives multiple molecule formation examples (H2, H2O, NH3, CH4, HCl, CCl4, O2, N2) with electronic configurations; introduces dot-and-cross diagrams and Lewis structures and provides an activity to model covalent bonds [Data: Sources (58)].",
+            "objectives": [
+              "Understand covalent bond formation by sharing valence electrons and recognize single, double and triple bonds with examples (H2, H2O, NH3, CH4, O2, N2) [Data: Sources (58)].",
+              "Use Lewis dot/cross diagrams and Lewis structures to represent shared and non-bonding electron pairs [Data: Sources (58)].",
+              "Not all explicit learning objectives are listed verbatim in the excerpts; these objectives are direct summaries of the provided covalent-bond content [Data: Sources (58)]."
+            ]
+          },
+          {
+            "title": "10.3 Polarity of bonds",
+            "description": "Section title present in TOC; detailed description for bond polarity is not included in the provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "10.4 Intermolecular bonds",
+            "description": "Section title present in TOC; detailed description for intermolecular bonds not included in the provided excerpts.",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          },
+          {
+            "title": "10.5 Properties of ionic and covalent compounds",
+            "description": "Section title present in TOC; specific property comparisons are not present in the provided excerpts beyond covalent examples and mention in TOC [Data: Sources (38, 58)].",
+            "objectives": [
+              "Not specified in the provided excerpts."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chapter 11 — Turning Effect of a Force",
+        "summary": "TOC lists moment and couple of forces. The provided excerpts do not include detailed content or stated objectives for these sections [Data: Sources (38)].",
+        "sections": [
+          { "title": "11.1 Moment", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "11.2 The couple of forces", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] }
+        ]
+      },
+      {
+        "title": "Chapter 12 — Equilibrium of Forces",
+        "summary": "TOC lists introductory equilibrium material and equilibrium cases for bodies under two forces and three coplanar/ non-parallel forces. The provided excerpts do not contain descriptive text for these sections [Data: Sources (38)].",
+        "sections": [
+          { "title": "12.1 Introduction to equilibrium of forces", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "12.2 Equilibrium of a body under two forces", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "12.3 Equilibrium of a body under three coplanar parallel forces", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] },
+          { "title": "12.4 Equilibrium of a body under three forces that are not parallel", "description": "Not available in provided excerpts.", "objectives": ["Not specified in the provided excerpts."] }
+        ]
+      }
+    ]
+  }
+}
+```
+
+Comments and source summary:
+- The chapter and section list (TOC) comes from the table of contents excerpts [Data: Sources (38, 2)]. Many section headings appear in the TOC but detailed descriptions were not included for every section in the supplied excerpts; where full content excerpts existed (for example: Chemical Basis of Life — carbohydrates, water, minerals; Cell structure; Friction; Covalent bonds) those are summarized and cited above [Data: Sources (4, 7, 48, 58, 38)].  
+- Book-level aims about activity-based learning, summaries, exercises, and higher-order skills are explicitly stated in the foreword/introduction excerpts [Data: Sources (1, 0, 2, 3)].
+
+If you want, I can:
+- Expand any chapter summaries further by extracting more detailed sentences from specific source ids (tell me which chapter(s) and I will include longer direct-excerpt summaries with citations).
+- Produce a CSV or table mapping each section to the exact page numbers shown in the TOC excerpt.

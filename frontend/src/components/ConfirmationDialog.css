@@ -1,0 +1,185 @@
+.confirmation-dialog-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  z-index: 3000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  backdrop-filter: blur(5px);
+}
+
+.confirmation-dialog-content {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 16px;
+  padding: 30px;
+  max-width: 500px;
+  width: 100%;
+  position: relative;
+  box-shadow: 0 10px 30px rgba(102, 126, 234, 0.5);
+  border: 3px solid #ffd700;
+  color: white;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.confirmation-dialog-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.confirmation-dialog-header h3 {
+  color: white;
+  margin: 0;
+  font-size: 1.5em;
+  font-weight: 800;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.confirmation-dialog-close {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s;
+  backdrop-filter: blur(10px);
+  font-weight: 700;
+  padding: 0;
+}
+
+.confirmation-dialog-close:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.1);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.confirmation-dialog-body {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.confirmation-icon {
+  font-size: 4em;
+  margin-bottom: 15px;
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
+}
+
+.confirmation-dialog-body p {
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin: 0;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.confirmation-dialog-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  padding-top: 20px;
+  border-top: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.btn-confirm-cancel,
+.btn-confirm-archive,
+.btn-confirm-unarchive,
+.btn-confirm-logout,
+.btn-confirm-delete {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 12px;
+  font-size: 1em;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn-confirm-cancel {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.btn-confirm-cancel:hover {
+  background: rgba(255, 255, 255, 0.3);
+  border-color: rgba(255, 255, 255, 0.5);
+  transform: translateY(-2px);
+}
+
+.btn-confirm-archive {
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+  color: #333;
+  border: 2px solid #ffd700;
+  box-shadow: 0 4px 10px rgba(255, 215, 0, 0.4);
+}
+
+.btn-confirm-archive:hover {
+  background: linear-gradient(135deg, #ffed4e 0%, #ffd700 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(255, 215, 0, 0.6);
+}
+
+.btn-confirm-unarchive {
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+  color: #333;
+  border: 2px solid #ffd700;
+  box-shadow: 0 4px 10px rgba(255, 215, 0, 0.4);
+}
+
+.btn-confirm-unarchive:hover {
+  background: linear-gradient(135deg, #ffed4e 0%, #ffd700 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(255, 215, 0, 0.6);
+}
+
+.btn-confirm-logout {
+  background: linear-gradient(135deg, #f5576c 0%, #f093fb 100%);
+  color: white;
+  border: 2px solid #f5576c;
+  box-shadow: 0 4px 10px rgba(245, 87, 108, 0.4);
+}
+
+.btn-confirm-logout:hover {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(245, 87, 108, 0.6);
+}
+
+.btn-confirm-delete {
+  background: linear-gradient(135deg, #f5576c 0%, #f093fb 100%);
+  color: white;
+  border: 2px solid #f5576c;
+  box-shadow: 0 4px 10px rgba(245, 87, 108, 0.4);
+}
+
+.btn-confirm-delete:hover {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(245, 87, 108, 0.6);
+}
+

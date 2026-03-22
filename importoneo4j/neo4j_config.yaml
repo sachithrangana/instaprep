@@ -1,0 +1,23 @@
+# Neo4j Configuration
+# Set these values or use environment variables
+
+neo4j:
+  uri: "bolt://44.197.133.87:7687"  # Neo4j connection URI
+  username: "neo4j"             # Neo4j username
+  password: "process-halt-agent"                  # Set via NEO4J_PASSWORD environment variable
+  database: "neo4j"            # Database name (default: neo4j)
+  
+  # Import settings
+  import:
+    clear_before_import: false  # Clear database before importing
+    create_indexes: true        # Create indexes for better performance
+    batch_size: 1000            # Batch size for bulk imports
+
+# GraphRAG output paths (relative to project root)
+graphrag_output:
+  entities: "sciencetextbook/output/entities.parquet"
+  relationships: "sciencetextbook/output/relationships.parquet"
+  # Alternative paths:
+  # entities: "output/entities.parquet"
+  # relationships: "output/relationships.parquet"
+

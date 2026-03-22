@@ -1,0 +1,252 @@
+[
+  {
+    "id": "q1",
+    "number": 1,
+    "type": "multiple_choice",
+    "question": "Which of the following is a polysaccharide?",
+    "question_sinhala": "පහත සඳහන් අඩංගුවෙන් කුමක් පොලිසැකරයිඩ් එකක්ද?",
+    "options": [
+      "Glucose",
+      "Sucrose",
+      "Starch",
+      "Fructose"
+    ],
+    "options_sinhala": [
+      "ග්ලුකෝස්",
+      "සුක්කුරු",
+      "ස්ටාර්ච්",
+      "ෆ්‍රක්ටෝස්"
+    ],
+    "correct_answer": "Starch",
+    "correct_answer_sinhala": "ස්ටාර්ච්",
+    "explanation": "Starch is a polysaccharide used by plants for energy storage; glucose and fructose are monosaccharides and sucrose is a disaccharide.",
+    "explanation_sinhala": "ස්ටාර්ච් යනු ශාකයන්ට බලශක්ති ගබඩා කිරීම සඳහා භාවිතා කරන පොලිසැකරයිඩ් එකකි; ග්ලුකෝස් සහ ෆ්‍රක්ටෝස් මායිනොසැකරයිඩ් වන අතර සුක්කුරු ද්විසැකරයිඩ් එකකි.",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q2",
+    "number": 2,
+    "type": "multiple_choice",
+    "question": "Which reagent gives a blue–black colour with starch?",
+    "question_sinhala": "ස්ටාර්ච් සමඟ නිල්–කළු වර්ණයක් දක්වන ප්‍රතික්‍රියකාරකය කවරද?",
+    "options": [
+      "Benedict's solution",
+      "Iodine solution",
+      "Biuret reagent",
+      "Limewater"
+    ],
+    "options_sinhala": [
+      "බෙනඩික්ට් ද්‍රාවණය",
+      "අයෝඩීන් ද්‍රාවණය",
+      "බයුරේට් ප්‍රතික්‍රියකාරකය",
+      "ලයිම් වතුර"
+    ],
+    "correct_answer": "Iodine solution",
+    "correct_answer_sinhala": "අයෝඩීන් ද්‍රාවණය",
+    "explanation": "Iodine solution reacts with starch to produce a characteristic blue–black colour; Benedict's tests reducing sugars (e.g., glucose), Biuret tests proteins.",
+    "explanation_sinhala": "අයෝඩීන් ද්‍රාවණය ස්ටාර්ච් සමඟ සන්නිවේදනය කර නිල–කළු වර්ණය දක්වයි; බෙනඩික්ට් ද්‍රාවණය ප්‍රතිදායක සීනි පරීක්ෂා කරන්නයි, බයුරේට් ප්‍රෝටීන පරීක්ෂා කරයි.",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q3",
+    "number": 3,
+    "type": "multiple_choice",
+    "question": "Proteins are polymers made mainly of which elements?",
+    "question_sinhala": "ප්‍රෝටීන ප්‍රභව වන්නේ ප්‍රධාන වශයෙන් පහත අණුගණන කවරයන්ගෙන් ද?",
+    "options": [
+      "C, H, O, N",
+      "C and O only",
+      "C, H, O only",
+      "C, H, O, P"
+    ],
+    "options_sinhala": [
+      "C, H, O, N",
+      "C සහ O පමණි",
+      "C, H, O පමණි",
+      "C, H, O, P"
+    ],
+    "correct_answer": "C, H, O, N",
+    "correct_answer_sinhala": "C, H, O, N",
+    "explanation": "Proteins are polymers of amino acids and characteristically contain carbon, hydrogen, oxygen and nitrogen (and sometimes sulfur).",
+    "explanation_sinhala": "ප්‍රෝටීන අමිනෝ අම්ල වල පොලිමර්ස් වන අතර සාමාන්‍යයෙන් කාබන්, හයිඩ්රජන්, ඔක්සිජන් සහ නයිට්‍රජන් අඩංගු වේ (කවදාක සුල්ෆර්ද තිබිය හැක).",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q4",
+    "number": 4,
+    "type": "multiple_choice",
+    "question": "Why does ice float on liquid water?",
+    "question_sinhala": "අයිස් (හැරුණු අයිස්) ද්‍රව ජලය මත හෙළේන්නේ ඇයි?",
+    "options": [
+      "Ice is denser than liquid water",
+      "Ice is less dense than liquid water",
+      "Ice and liquid water have the same density",
+      "Ice becomes heavier when frozen"
+    ],
+    "options_sinhala": [
+      "අයිස් ද්‍රව ජලයට වඩා ඝනත්වය වැඩි වේ",
+      "අයිස් ද්‍රව ජලයට වඩා ඝනත්වය අඩු වේ",
+      "අයිස් සහ ද්‍රව ජලයේ ඝනත්වය එකසේය",
+      "යිස් සිදුවන විට එය බර වැඩි වේ"
+    ],
+    "correct_answer": "Ice is less dense than liquid water",
+    "correct_answer_sinhala": "අයිස් ද්‍රව ජලයට වඩා ඝනත්වය අඩු වේ",
+    "explanation": "Water expands on freezing, so solid ice has lower density than liquid water and floats—this protects aquatic life in cold conditions.",
+    "explanation_sinhala": "ජලය බිඳුණු විට පුළුල් වන බැවින් අයිස් හි ඝනත්වය ද්‍රව ජලයට වඩා අඩු වේ; එබැවින් අයිස් ආපසු හෙළෙන අතර අයිස් ජීවිත සඳහා ආරක්ෂාවක් සපයයි.",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q5",
+    "number": 5,
+    "type": "multiple_choice",
+    "question": "Which vitamin is classed as water‑soluble?",
+    "question_sinhala": "පහත විටමින් කොයි වර්ගයට ගනීද? (ජල-දියවැල් වර්ගය)",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "options_sinhala": [
+      "විටමින් A",
+      "විටමින් C",
+      "විටමින් D",
+      "විටමින් K"
+    ],
+    "correct_answer": "Vitamin C",
+    "correct_answer_sinhala": "විටමින් C",
+    "explanation": "Vitamin C is water‑soluble (along with B vitamins); vitamins A, D, E and K are fat‑soluble.",
+    "explanation_sinhala": "විටමින් C ජල-දියවැල් වර්ගයට අයත්ය (B කාණ්ඩයත් සමඟ); විටමින් A, D, E සහ K තෙල්-දියවැල් වර්ගයයි.",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q6",
+    "number": 6,
+    "type": "multiple_choice",
+    "question": "Deficiency of which mineral commonly causes anaemia?",
+    "question_sinhala": "කුමන අභාවය සාමාන්‍යයෙන් අනීමියා (නිරෝගීතාව) ඇති කරයි?",
+    "options": [
+      "Iodine (I)",
+      "Calcium (Ca)",
+      "Iron (Fe)",
+      "Magnesium (Mg)"
+    ],
+    "options_sinhala": [
+      "යෝඩීන් (I)",
+      "කැල්සියම් (Ca)",
+      "ලෝහය (Fe)",
+      "මැග්නීසියම් (Mg)"
+    ],
+    "correct_answer": "Iron (Fe)",
+    "correct_answer_sinhala": "ලෝහය (Fe)",
+    "explanation": "Iron is required for haemoglobin formation; inadequate iron intake or absorption commonly leads to iron‑deficiency anaemia.",
+    "explanation_sinhala": "ලෝහය රුධිරහරම (හීමොග්ලොබින්) නිර්මාණය සඳහා අත්‍යවශ්‍යය; ලෝහ අඩුභාවය සාමාන්‍යයෙන් අනීමියා ඇති කරයි.",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q7",
+    "number": 7,
+    "type": "multiple_choice",
+    "question": "According to cell theory, new cells are formed by:",
+    "question_sinhala": "කෝෂ සාධාරණය අනුව නව කෝෂ සෑදෙන්නේ කෙසේද?",
+    "options": [
+      "Spontaneous generation",
+      "Division of pre-existing cells",
+      "Formation from viruses",
+      "Creation from non-living matter"
+    ],
+    "options_sinhala": [
+      "ස්වභාවික උත්පත්ති (ස්වයංජනක නිර්මාණ)",
+      "පෙර පවතින කෝෂවල බෙදීමෙන්",
+      "වයිරසවලින් නිර්මාණය වීමෙන්",
+      "අජීව ද්‍රව්‍යයෙන් නිර්මාණය වීමෙන්"
+    ],
+    "correct_answer": "Division of pre-existing cells",
+    "correct_answer_sinhala": "පෙර පවතින කෝෂවල බෙදීමෙන්",
+    "explanation": "Cell theory states that all cells arise from pre-existing cells by cell division; spontaneous generation is not accepted.",
+    "explanation_sinhala": "කෝෂ සාධාරණය අනුව සියලු කෝෂ පෙර පවතින කෝෂවල බෙදීමෙන් උත්පන්න වේ; ස්වයංජනක නිර්මාණ අද රටාව ලෙස පිළිගන්න නොහැක.",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q8",
+    "number": 8,
+    "type": "multiple_choice",
+    "question": "Which type of friction prevents an object from starting to move?",
+    "question_sinhala": "වස්තුවක් ගමන් කිරීමට පටන් ගන්නේ නැතිව වසා තබාගෙන සිටින ශක්තිය කුමක්ද?",
+    "options": [
+      "Static (limiting) friction",
+      "Kinetic (dynamic) friction",
+      "Rolling friction",
+      "Fluid friction"
+    ],
+    "options_sinhala": [
+      "ස්ථාවර (සීමිත) ඝර්ෂණය",
+      "ගතික (ඩයිනැමික්) ඝර්ෂණය",
+      "රෝලිං ඝර්ෂණය",
+      "ද්‍රව ඝර්ෂණය"
+    ],
+    "correct_answer": "Static (limiting) friction",
+    "correct_answer_sinhala": "ස්ථාවර (සීමිත) ඝර්ෂණය",
+    "explanation": "Static or limiting friction acts to oppose the initiation of relative motion between contacting surfaces; once motion starts kinetic friction applies.",
+    "explanation_sinhala": "ස්ථාවර/සීමිත ඝර්ෂණය ස්පර්ශිත පෘෂ්ඨයන් අතර සම්බන්ධිත ගතික චලනය ආරම්භ වීම වැළැක්වීමට ක්‍රියා කරයි; චලනය ආරම්භ হলে ගතික ඝර්ෂණය ක්‍රියාත්මක වේ.",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q9",
+    "number": 9,
+    "type": "multiple_choice",
+    "question": "Which of the following aqueous solutions will conduct electricity?",
+    "question_sinhala": "පහත දෙන ලද ද්‍රාවණයන්ගෙන් කවරය විදුලිය ප්‍රවාහනය කරයිද?",
+    "options": [
+      "Sugar solution (sucrose)",
+      "Salt solution (sodium chloride)",
+      "Distilled water",
+      "Vegetable oil"
+    ],
+    "options_sinhala": [
+      "සීනි ද්‍රාවණය (සුක්කුරු)",
+      "ලුණු ද්‍රාවණය (සෝඩියම් ක්ලෝරයිඩ්)",
+      "අවිෂ්ක ජලය",
+      "පළතුරු/වර්ග හෙලන තෙල්"
+    ],
+    "correct_answer": "Salt solution (sodium chloride)",
+    "correct_answer_sinhala": "ලුණු ද්‍රාවණය (සෝඩියම් ක්ලෝරයිඩ්)",
+    "explanation": "Ionic compounds like sodium chloride dissociate into ions in water and conduct electricity; sugar (covalent) solutions and distilled water do not conduct well.",
+    "explanation_sinhala": "සෝඩියම් ක්ලෝරයිඩ් වැනි අයනික යාවත්කාලීන ද්‍රව්‍ය ජලයේ අයනවලට බෙදී විදුලිය ප්‍රවාහනය කරයි; සීනි (කොවලන්ට්) ද්‍රාවණ සහ අවිෂ්ක ජලය හොඳින් ප්‍රවාහනය කරන්නෙ නැ.",
+    "difficulty": "easy",
+    "points": 1
+  },
+  {
+    "id": "q10",
+    "number": 10,
+    "type": "multiple_choice",
+    "question": "What is the approximate value of Avogadro's number?",
+    "question_sinhala": "අවොගාඩ්‍රෝ සංඛ්‍යාවේ සමීප අගය කුමක්ද?",
+    "options": [
+      "6.02 × 10^23",
+      "1 × 10^3",
+      "6.02 × 10^20",
+      "3.00 × 10^8"
+    ],
+    "options_sinhala": [
+      "6.02 × 10^23",
+      "1 × 10^3",
+      "6.02 × 10^20",
+      "3.00 × 10^8"
+    ],
+    "correct_answer": "6.02 × 10^23",
+    "correct_answer_sinhala": "6.02 × 10^23",
+    "explanation": "Avogadro's number (approximately 6.02 × 10^23) is the number of particles in one mole of substance.",
+    "explanation_sinhala": "අවොගාඩ්‍රෝ සංඛ්‍යාව (සමීපව 6.02 × 10^23) යනු එක මෝල් පදාර්ථයක පවතින අණු/අපරමාණ සංඛ්‍යාවයි.",
+    "difficulty": "easy",
+    "points": 1
+  }
+]

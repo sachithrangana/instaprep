@@ -1,0 +1,8 @@
+.env
+app/.env
+app/indexes/caf570c9-98f6-4468-9f2e-dc3352d3c9f7/.env
+app/indexes/14719893-7234-4316-9994-b4021c21204f/.env
+frontend/.env
+.DS_Store
+.vscode/
+.python-version
