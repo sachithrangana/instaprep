@@ -1272,3 +1272,73 @@ litellm.exceptions.AuthenticationError: litellm.AuthenticationError: Authenticat
   "tokens_per_response": 0.0,
   "cost_per_response": 0.0
 }
+2026-03-23 01:24:16.0461 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-23 01:24:16.0474 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-23 01:32:04.0789 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 3.779954195022583,
+  "compute_duration_per_response_seconds": 3.779954195022583,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1257,
+  "total_tokens": 1257,
+  "tokens_per_response": 1257.0,
+  "cost_per_response": 0.0
+}
+2026-03-23 01:32:04.0859 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-03-23 02:42:11.0865 - WARNING - graphrag.query.context_builder.community_context - Warning: No community records added when building community context.
+2026-03-23 02:42:11.0874 - WARNING - graphrag.query.structured_search.local_search.mixed_context - Reached token limit - reverting to previous context state
+2026-03-23 02:51:33.0269 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-large: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 3.373918294906616,
+  "compute_duration_per_response_seconds": 3.373918294906616,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 1257,
+  "total_tokens": 1257,
+  "tokens_per_response": 1257.0,
+  "cost_per_response": 0.0
+}
+2026-03-23 02:51:33.0271 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-5.2: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 1,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}

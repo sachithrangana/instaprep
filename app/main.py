@@ -502,7 +502,7 @@ def get_mongodb_client():
             print(f"Warning: MongoDB cluster not found: {e}")
             print("The cluster name in your connection string does not exist.")
             print("Please verify:")
-            print("  1. Connection string format: mongodb+srv://username:password@cluster-name.mongodb.net/")
+            print("  1. Connection string format: mongodb+srv://:@cluster-name.mongodb.net/")
             print("  2. Cluster name is correct")
             print("  3. You have access to the cluster")
         else:
