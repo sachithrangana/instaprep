@@ -6,3 +6,5 @@ frontend/.env
 .DS_Store
 .vscode/
 .python-version
+./instaprep-vm-4
+./__pycache__/
